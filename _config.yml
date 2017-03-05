@@ -21,7 +21,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I'm Markus Tenghamn, I love working with computers, taking things apart and learning
   new things. On my blog I write guides and share some of the things I do.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://tenghamn.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: markustenghamn
 github_username:  markustenghamn
 google_analytics: UA-28059087-1
