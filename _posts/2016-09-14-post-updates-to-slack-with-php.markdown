@@ -5,6 +5,7 @@ redirect_from:
   - /post-updates-to-slack-with-php
 date:   2016-09-14 20:42:47 +0100
 categories: slack php
+description: A guide on how to use PHP to post automated updates directly to slack. Example code and images are provided to help the user.
 ---
 
 ## What is Slack
