@@ -18,19 +18,19 @@ and we will discuss it.
 
 ## Current/finished projects
 
-[Tournify.io](/projects/current/tournify/)
-[Lösenord.xyz](/projects/current/losenord-xyz/)
-[Dashview.io](/projects/current/dashview/)
-[Uberswe.com](/projects/current/uberswe/)
+- [Tournify.io](/projects/current/tournify/)
+- [Lösenord.xyz](/projects/current/losenord-xyz/)
+- [Dashview.io](/projects/current/dashview/)
+- [Uberswe.com](/projects/current/uberswe/)
 
 ## Ideas
 
-[Nummer.io](/projects/ideas/nummer-io/)
-[Kvitto.io](/projects/ideas/kvitto-io/)
-[99smartwatch.com](/projects/ideas/99smartwatch/)
-[betawow.com](/projects/ideas/betawow/)
-[beubo.com](/projects/ideas/beubo/)
+- [Nummer.io](/projects/ideas/nummer-io/)
+- [Kvitto.io](/projects/ideas/kvitto-io/)
+- [99smartwatch.com](/projects/ideas/99smartwatch/)
+- [betawow.com](/projects/ideas/betawow/)
+- [beubo.com](/projects/ideas/beubo/)
 
 ## Past projects
 
-[anveto.com](/projects/past/anveto/)
+- [anveto.com](/projects/past/anveto/)
