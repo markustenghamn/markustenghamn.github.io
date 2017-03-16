@@ -16,8 +16,14 @@
       <div class="trigger">
         {% for my_page in site.pages %}
           {% if my_page.title %}
-            {% if my_page.title != 404 %}
-             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            {% if my_page.title == "About" %}
+              <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            {% endif %}
+            {% if my_page.title == "Services" %}
+              <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            {% endif %}
+            {% if my_page.title == "Projects" %}
+              <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {% endif %}
           {% endif %}
         {% endfor %}

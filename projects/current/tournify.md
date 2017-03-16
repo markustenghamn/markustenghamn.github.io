@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: project
 title: Tournify.io
-permalink: /projects/ideas/tournify/
+permalink: /projects/current/tournify/
+description: I created a project called dinturnering (your tournament in swedish) for a few friends who hosted FIFA tournaments every now and then. After a while I started getting a couple of games hosted on the site every weekend.
 ---
 
 I created a project called dinturnering (your tournament in swedish) 
