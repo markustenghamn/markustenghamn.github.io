@@ -27,9 +27,15 @@ and we will discuss it.
 
 - [Nummer.io](/projects/ideas/nummer-io/)
 - [Kvitto.io](/projects/ideas/kvitto-io/)
-- [99smartwatch.com](/projects/ideas/99smartwatch/)
-- [betawow.com](/projects/ideas/betawow/)
-- [beubo.com](/projects/ideas/beubo/)
+- [99SmartWatch.com](/projects/ideas/99smartwatch/)
+- [BetaWoW.com](/projects/ideas/betawow/)
+- [Beubo.com](/projects/ideas/beubo/)
+- [BounceGaming.com](/projects/ideas/bouncegaming/)
+- [Bracket.xyz](/projects/ideas/bracket-xyz)
+- [ChangesForWebsites.com](/projects/current/changesforwebsites)
+- [CreateATournament.com](/projects/current/createatournament)
+- [Guide2Code.com](/projects/current/guide2code)
+- [InvoiceControlPanel.com](/projects/current/invoicecontrolpanel)
 
 ## Past projects
 
