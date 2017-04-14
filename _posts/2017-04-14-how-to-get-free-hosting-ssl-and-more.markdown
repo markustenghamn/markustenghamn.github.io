@@ -49,7 +49,7 @@ server I will now be moving to Google where I will pay nothing for at least 12 m
 but they can get a bit pricier when testing stuff as Amazon charges by the started hour and Google charges by the minute. Both
 companies offer great support if you run into trouble when trying to configure your apps.
 
-## Domains
+## Free Domains
 
 You can also get free domain names with extensions like .tk which you can register at [dot.tk](http://www.dot.tk/). You can keep using it as long
  as you get 25 hits to your domain in 90 days which should not be hard if you are adding content to it and telling others about it. Personally I think
