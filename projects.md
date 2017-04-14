@@ -39,4 +39,4 @@ and we will discuss it.
 
 ## Past projects
 
-- [anveto.com](/projects/past/anveto/)
+- [Anveto.com](/projects/past/anveto/)
