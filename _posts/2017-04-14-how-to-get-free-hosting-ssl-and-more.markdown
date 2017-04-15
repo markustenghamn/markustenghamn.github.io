@@ -12,7 +12,7 @@ everything I was doing and my blog is a great example of one such freebie.
 
 ## Free DNS
 
-So may of you have probably heard of [CloudFlare](https://www.cloudflare.com/) which can not only be used
+So many of you have probably heard of [CloudFlare](https://www.cloudflare.com/) which can not only be used
 as a free dns manager but it can also provide security, SSL encryption, and reliability (all for free). My
 blog uses it at the moment and I love it. If the server that I am currently hosting my blog on were to go down
 then CloudFlare will show a cached backup of my website until it comes back up again. It also reduces the load
