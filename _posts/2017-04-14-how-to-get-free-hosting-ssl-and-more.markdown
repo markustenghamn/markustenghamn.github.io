@@ -3,7 +3,9 @@ layout: post
 title:  "How to get Free Hosting, SSL and more"
 date:   2017-04-14 18:15:00 +0100
 categories: Hosting SSL free Domains DNS
-description: There are many ways to get free SSL, DNS, Hosting and more. Here are a few that I found useful.
+description: During the past month I have been shutting down servers and reducing costs as I realized how much
+             I actually spent on my hobby projects that I love to work on. There is a cheaper alternative to
+             everything I was doing and my blog is a great example of one such freebie.
 ---
 
 During the past month I have been shutting down servers and reducing costs as I realized how much
