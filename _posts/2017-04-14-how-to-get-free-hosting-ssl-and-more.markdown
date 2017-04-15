@@ -58,3 +58,5 @@ You can also get free domain names with extensions like .tk which you can regist
 it's better to just get a .com for $8.99 per year with a registrar like [NameSilo](https://www.namesilo.com/pricing.php?rid=ee81e92mn). A .tk will work fine
 and may be good for a personal blog but a .com is more professional and easier to remember. Since .tk is a free domain some may
 connect the .tk extension with abuse/scams but it could just be something I have associated with .tk in the past.
+
+[![How to get free Hosting, SSL, DNS, Domains and more ](http://img.youtube.com/vi/Jl1ZSXk0YpQ/0.jpg)](http://www.youtube.com/watch?v=Jl1ZSXk0YpQ "How to get free Hosting, SSL, DNS, Domains and more ")
