@@ -5,7 +5,7 @@ redirect_from:
    - /cities-in-motion-2-review-with-gameplay
 date:   2014-10-10 17:51:04 +0100
 categories: best domain registrar
-description: .
+description: Recently I decided to try Cities and Motion 2 as it was on sale on steam. Below you will find some ga
 ---
 
 Recently I decided to try [Cities and Motion 2](http://store.steampowered.com/app/225420/ "Cities in Motion 2") as it was on sale on steam. Below you will find some game play from me and an avid Twitch streamer, [bigswedish](http://www.twitch.tv/bigswedish "Bigswedish on Twitch"). What you will see is us two playing a competitive match on multiplayer as we are learning the game and how it works. Checkout [BigSwedish on Youtube here!](https://www.youtube.com/user/hugeswedish "BigSwedish on YouTube") **(Scroll down for review)** <iframe allowfullscreen="allowfullscreen" frameborder="0" height="720" src="//www.youtube.com/embed/2T8yg8rHfns" width="1280"></iframe>

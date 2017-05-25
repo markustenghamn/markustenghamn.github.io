@@ -5,7 +5,7 @@ redirect_from:
    - /social-login-visitors-comment-login-register-20-social-networks
 date:   2013-07-05 00:07:16 +0100
 categories: best domain registrar
-description: .
+description: Recently I was looking for a nice plugin which would let users login to my site with many different social networks. although this plugin won't work for my original idea, it was perfect right here on
 ---
 
 Recently I was looking for a nice plugin which would let users login to my site with many different social networks. although this plugin won't work for my original idea, it was perfect right here on my blog where anyone can now login via many different social networks and comment. There are many more social networks to add as well, I am only using part of the networks available. [Get it here](http://wordpress.org/plugins/oa-social-login/ "Wordpress Social Login").

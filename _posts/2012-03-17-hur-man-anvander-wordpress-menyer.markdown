@@ -5,7 +5,7 @@ redirect_from:
    - /hur-man-anvander-wordpress-menyer
 date:   2012-03-17 23:07:16 +0100
 categories: best domain registrar
-description: .
+description: Del 3 - Hur man använder Wordpress - Widgets
 ---
 
 ### [Del 3 - Hur man använder Wordpress - Widgets](http://markustenghamn.se/hur-man-anvander-wordpress-widgets/)

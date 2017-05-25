@@ -5,7 +5,7 @@ redirect_from:
    - /free-software-students
 date:   2014-12-03 12:22:49 +0100
 categories: best domain registrar
-description: .
+description: As a computer science student I have learned of many places where I can find software and resources to help me with my studies. Over time I have been able to compile a list of a lot of the free softwa
 ---
 
 As a computer science student I have learned of many places where I can find software and resources to help me with my studies. Over time I have been able to compile a list of a lot of the free software that you can receive as a student. These are real offers from companies like Microsoft, Autodesk and more! Below is my list of where you will find free software for students. [(image removed)](https://www.dreamspark.com/ "Microsoft DreamSpark")

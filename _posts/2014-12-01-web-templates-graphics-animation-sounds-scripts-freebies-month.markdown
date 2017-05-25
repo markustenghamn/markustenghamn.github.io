@@ -5,7 +5,7 @@ redirect_from:
    - /web-templates-graphics-animation-sounds-scripts-freebies-month
 date:   2014-12-01 17:20:17 +0100
 categories: best domain registrar
-description: .
+description: Its the beginning of a new month and that means more freebies from the Envato marketplace!
 ---
 
 Its the beginning of a new month and that means more freebies from the [Envato marketplace](http://market.envato.com/?ref=Bigideaguy "Envato Marketplace")! [(image removed)](http://markustenghamn.com/wp-content/uploads/2014/12/themeforest.jpg)

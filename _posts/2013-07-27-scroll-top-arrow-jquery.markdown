@@ -5,7 +5,7 @@ redirect_from:
    - /scroll-top-arrow-jquery
 date:   2013-07-27 10:22:36 +0100
 categories: best domain registrar
-description: .
+description: I wanted to add a scroll to top arrow to a site I was doing for a client recently as I think it looks nice and clever. It is fairly simple to do. To begin make sure you have jQuery added to your page,
 ---
 
 I wanted to add a scroll to top arrow to a site I was doing for a client recently as I think it looks nice and clever. It is fairly simple to do. To begin make sure you have jQuery added to your page, the following code between your head tags will do the trick.

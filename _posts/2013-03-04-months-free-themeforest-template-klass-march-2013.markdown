@@ -5,7 +5,7 @@ redirect_from:
    - /months-free-themeforest-template-klass-march-2013
 date:   2013-03-04 13:29:17 +0100
 categories: best domain registrar
-description: .
+description: This months free template for members of ThemeForest is KLASS, a creative one page portfolio which is fully jQuery powered. Skitter Slider HTML Version
 ---
 
 This months free template for members of ThemeForest is KLASS, a creative one page portfolio which is fully jQuery powered.

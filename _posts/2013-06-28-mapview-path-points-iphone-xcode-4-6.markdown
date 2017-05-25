@@ -5,7 +5,7 @@ redirect_from:
    - /mapview-path-points-iphone-xcode-4-6
 date:   2013-06-28 16:13:18 +0100
 categories: best domain registrar
-description: .
+description: I recently developed an iPhone app for an event in Sweden called SFSFUM which required a map which would show the user directions from their current location to several of the different locations of t
 ---
 
 I recently developed an iPhone app for an event in Sweden called SFSFUM which required a map which would show the user directions from their current location to several of the different locations of the event. Since there was no available tools in xcode to do this I had to create some custom code and help from contributions on github to accomplish the tasks and draw the path. I found the sample application MapWithRoutes by Kadir Pekel which can be found on github to be very helpful: [https://github.com/kadirpekel/MapWithRoute](https://github.com/kadirpekel/MapWithRoutes "MapWithRoutes") I also made use of RegexKitLite: [http://regexkit.sourceforge.net/](http://regexkit.sourceforge.net/ "RegexKitLite") I start by creating a MapViewController view which includes a MapView like so (image removed) Here is the code for my header file

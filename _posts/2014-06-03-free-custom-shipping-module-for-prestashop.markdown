@@ -5,7 +5,7 @@ redirect_from:
    - /free-custom-shipping-module-for-prestashop
 date:   2014-06-03 12:00:22 +0100
 categories: best domain registrar
-description: .
+description: Need a
 ---
 
 Need a [free custom shipping module for Prestashop](http://codecanyon.net/item/prestashop-custom-shipping/5755204?WT.ac=free_file&WT.z_author=jarlufo&ref=Bigideaguy "Custom Shipping Module For Prestashop")? Now is your chance, this months free item from CodeCanyon is just that. [Click here](http://codecanyon.net/item/prestashop-custom-shipping/5755204?WT.ac=free_file&WT.z_author=jarlufo&ref=Bigideaguy "Custom Shipping Module For Prestashop") to get your freebie or see the description below for more info.

@@ -5,7 +5,7 @@ redirect_from:
    - /whmcs-licensing-addon-storing-local-key-text-file
 date:   2012-08-09 22:28:44 +0100
 categories: best domain registrar
-description: .
+description: Please see my updated guide on
 ---
 
 **Please see my updated guide on [How to setup and configure the WHMCS Licensing Addon](http://markustenghamn.com/how-to-configure-and-setup-whmcs-licensing-addon-review-how-to "How to configure and setup WHMCS Licensing Addon [Review] [How to]")** This post will attempt to explain how to use a text file to store the license key and local key when check license checks are performed preventing your whmcs licensing addon script from calling remotely too often and only when needed. Need help getting the WHMCS licensing addon working?[Read my other post](http://markustenghamn.com/configure-setup-whmcs-licensing-addon "How to configure and setup WHMCS licensing addon") At the end of our check license script we have some code that looks like this which will return the state of the license. ```

@@ -5,7 +5,7 @@ redirect_from:
    - /months-web-development-freebies-151-value
 date:   2015-01-04 12:25:22 +0100
 categories: best domain registrar
-description: .
+description: It's a new month and that means more free stuff from the Envato marketplace! This month we have many cool items with a tot
 ---
 
 It's a new month and that means more free stuff from the [Envato](http://anve.to/hEXRF "Envato Marketplace") marketplace! This month we have many cool items with a total value of $151 which you can download completely free just by signing up at [Envato](http://anve.to/hEXRF "Envato Marketplace")!

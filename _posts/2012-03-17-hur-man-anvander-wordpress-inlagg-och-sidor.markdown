@@ -5,7 +5,7 @@ redirect_from:
    - /hur-man-anvander-wordpress-inlagg-och-sidor
 date:   2012-03-17 22:55:50 +0100
 categories: best domain registrar
-description: .
+description: Del 1 - Hur man använder Wordpress - Intro Inlägg
 ---
 
 ### [Del 1 - Hur man använder Wordpress - Intro](http://markustenghamn.se/hur-man-anvander-wordpress-intro/)

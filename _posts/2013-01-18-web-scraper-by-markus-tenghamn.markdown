@@ -5,7 +5,7 @@ redirect_from:
    - /web-scraper-by-markus-tenghamn
 date:   2013-01-18 07:30:53 +0100
 categories: best domain registrar
-description: .
+description: I recently finished the web applications course att Mälardalens University and decided to do the course project, which is usally for a group of 4-6 people, on my own. The course is part time spanning
 ---
 
 I recently finished the web applications course att Mälardalens University and decided to do the course project, which is usally for a group of 4-6 people, on my own. The course is part time spanning about 8 weeks in total. The project was done for a company from Eskilstuna Sweden which is called Cleaning Services. Below is my report for the project as well as the presentation. I will also explain how the parsers were created. The overall project was a success and the company stated that it went beyond their expectations. I would be happy to receive any positive or constructive feedback! Presentation slides: [https://docs.google.com/file/d/0B1Xh2EtX2fzCSzhFZXBUTWVPbVE/edit](https://docs.google.com/file/d/0B1Xh2EtX2fzCSzhFZXBUTWVPbVE/edit "Presentation Slides - Web Scraper by Markus Tenghamn") Report: [https://docs.google.com/file/d/0B1Xh2EtX2fzCWnpKMGV5cU5qUVk/edit](https://docs.google.com/file/d/0B1Xh2EtX2fzCWnpKMGV5cU5qUVk/edit "Report - A Web Scraper by Markus Tenghamn")

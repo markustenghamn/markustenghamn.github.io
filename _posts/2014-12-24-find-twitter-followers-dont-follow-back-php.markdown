@@ -5,7 +5,7 @@ redirect_from:
    - /find-twitter-followers-dont-follow-back-php
 date:   2014-12-24 07:09:46 +0100
 categories: best domain registrar
-description: .
+description: I was working on Anveto and decided to implement a feature which will display all users who you follow but who don't follow you back on t
 ---
 
 I was working on [Anveto](http://anveto.com "Anveto") and decided to implement a feature which will display all users who you follow but who don't follow you back on twitter. This can be useful if you want to know which of your twitter followers who are not returning the favor and following you or who are simply not interested in you. If you don't know how to program you can sign up for this service over at [http://anveto.com](http://anveto.com "Anveto.com"). Let's begin! In order to do this you will need to download [twitteroauth](https://github.com/abraham/twitteroauth "Twitteroauth") and upload these files to your server. You will also need to create a twitter app and get your credentials [here](https://apps.twitter.com/ "Create a twitter app"). Once you have these you will be able to follow this guide. What I did was to create a SOCIAL class which will hold all of my functions. In this file you will need to include the twitter files with a statement like this, you may have to modify the path.

@@ -5,7 +5,7 @@ redirect_from:
    - /this-months-web-development-freebies-from-envato-and-creative-market-over-100-worth
 date:   2015-03-03 17:59:40 +0100
 categories: best domain registrar
-description: .
+description: Nature Photo (image removed) A
 ---
 
 [Nature Photo](http://anve.to/8ZH4P "Nature - Photodune")

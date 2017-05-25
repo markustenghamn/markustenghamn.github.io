@@ -5,7 +5,7 @@ redirect_from:
    - /just-hosting-theme-whmcs
 date:   2013-02-04 00:38:07 +0100
 categories: best domain registrar
-description: .
+description: This post continues explaining how to setup the Just Hosting Theme for WHMCS going from my original post:
 ---
 
 This post continues explaining how to setup the Just Hosting Theme for WHMCS going from my original post: [Getting Started With The Just Hosting Theme for WHMCS](http://markustenghamn.com/started-hosting-theme-whmcs "Getting Started With The Just Hosting Theme for WHMCS") Here is a recap of what is needed to set everything up

@@ -5,7 +5,7 @@ redirect_from:
    - /create-social-network-socialengine-review-2013
 date:   2013-02-04 22:15:17 +0100
 categories: best domain registrar
-description: .
+description: A service I stumbled across a few days ago which is called SocialEngine let's you create a social networking website in minutes! You can choose to host it in the cloud and pay monthly or to buy the
 ---
 
 A service I stumbled across a few days ago which is called SocialEngine let's you create a social networking website in minutes! You can choose to host it in the cloud and pay monthly or to buy the script and host it on your own. Social engine comes loaded with features which let's you easily create and manage your social site. [Try it today with a 14 day free trial!](http://www.anrdoezrs.net/click-7035587-10952383)(image removed)

@@ -5,7 +5,7 @@ redirect_from:
    - /improve-search-function-magento
 date:   2012-04-21 22:49:10 +0100
 categories: best domain registrar
-description: .
+description: Earlier I wrote about how you can change Magento so that all the products that are sold out show up last. Here is another thing that can be improved in Magento. The search function shows by default th
 ---
 
 Earlier I wrote about how you can change Magento so that all the products that are sold out show up last. Here is another thing that can be improved in Magento. The search function shows by default the most relevant results last. And if you have multiple search terms it tries to find a match one at a time. We can change this fairly easily with a small bit of code. Change the file /catalogsearch/form.mini.phtml in your theme In that file is a html form. Add the following code anywhere between the form tags

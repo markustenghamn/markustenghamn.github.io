@@ -5,7 +5,7 @@ redirect_from:
    - /gratis-wordpress-tema-fran-themeforest
 date:   2013-09-03 18:45:30 +0100
 categories: best domain registrar
-description: .
+description: Här är denna månadens gratis Wordpress-tema från Themeforest. Den är helt gratis för registrerade medlemmar att ladda ner helt gratis (gratis registrering så klart!)! Detta erbjudande gäller f
 ---
 
 Här är denna månadens gratis Wordpress-tema från Themeforest. Den är helt gratis för registrerade medlemmar att ladda ner helt gratis (gratis registrering så klart!)! Detta erbjudande gäller fram till slutet av september! [Klicka här](http://themeforest.net/item/vintage-immersed-multipurpose-wordpress-theme/2866563?WT.ac=free_file&WT.seg_1=free_file&WT.z_author=designthemes&ref=bigideaguy "Vintage Immersed - Multipurpose WordPress Theme ") för att ladda ner temat nu!

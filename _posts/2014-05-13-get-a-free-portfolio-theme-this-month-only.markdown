@@ -5,7 +5,7 @@ redirect_from:
    - /get-a-free-portfolio-theme-this-month-only
 date:   2014-05-13 06:13:45 +0100
 categories: best domain registrar
-description: .
+description: (image removed) This month Themeforest is giving away a free portfolio template. Emotion - Responsive H
 ---
 
 [(image removed)](http://markustenghamn.com/wp-content/uploads/2014/05/preview.__large_preview.jpg) This month Themeforest is giving away a free portfolio template. Emotion - Responsive HTML5/CSS3 Template. Follow this link and sign up for free in order to get your free template: [http://themeforest.net/item/emotion-responsive-html5css3-template/4114650?WT.ac=free\_file&WT.seg\_1=free\_file&WT.z\_author=dan\_fisher&ref=Bigideaguy](http://themeforest.net/item/emotion-responsive-html5css3-template/4114650?WT.ac=free_file&WT.seg_1=free_file&WT.z_author=dan_fisher&ref=Bigideaguy "Free Template- Emotion HTML5/CSS3") Here is a copy of the description for the theme. > ### Description

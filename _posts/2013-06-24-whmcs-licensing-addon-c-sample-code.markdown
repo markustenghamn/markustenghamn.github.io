@@ -5,7 +5,7 @@ redirect_from:
    - /whmcs-licensing-addon-c-sample-code
 date:   2013-06-24 02:36:04 +0100
 categories: best domain registrar
-description: .
+description: Here is some sample code I wrote recently due to many requests after previously writing many articles about the WHMCS Licensing Addon. This code will call your WHMCS installation and reutrn a dicti
 ---
 
 Here is some sample code I wrote recently due to many requests after previously writing many articles about the WHMCS Licensing Addon. This code will call your WHMCS installation and reutrn a dictionary with the key/value pairs as the php check license function does. This code is not made to work with a local key. See comments in the code for more details.

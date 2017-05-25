@@ -5,7 +5,7 @@ redirect_from:
    - /creating-tag-cloud-php
 date:   2012-03-15 01:43:56 +0100
 categories: best domain registrar
-description: .
+description: I have previously uploaded this code to SourceCodeDB.com http://sourcecodedb.com/Create-a-tag-cl
 ---
 
 I have previously uploaded this code to SourceCodeDB.com [http://sourcecodedb.com/Create-a-tag-cloud-with-php.html](http://sourcecodedb.com/Create-a-tag-cloud-with-php.html "Create a tag cloud with php") I am using and modifying code originally from [Steven York](http://stevenyork.com/tutorial/creating_accessible_tag_cloud_in_php_css_mysql), he has written most of the code in this example. I had to modify pieces of his code due to the fact that the tags stored on sourcecodedb.com are strings like this "C#, loop, code" instead of storing each tag as its own word. Below is the code I am using with plenty of comments to explain what I am doing.

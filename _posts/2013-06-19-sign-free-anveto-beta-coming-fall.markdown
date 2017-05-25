@@ -5,7 +5,7 @@ redirect_from:
    - /sign-free-anveto-beta-coming-fall
 date:   2013-06-19 23:45:02 +0100
 categories: best domain registrar
-description: .
+description: The sign up for the Anveto beta, which will launch this fall, is now open! Simply go to
 ---
 
 The sign up for the [Anveto](http://anveto.com "Anveto") beta, which will launch this fall, is now open! Simply go to [http://anveto.com](http://anveto.com "anveto") to sign up today. The following is a description from the website.
