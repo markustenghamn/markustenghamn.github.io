@@ -1,16 +1,18 @@
 ---
+redirect_from:
+    - /habbits/newsletter/web/developer/2017/04/14/daily-habbits-of-a-web-developer.html
 layout: post
-title:  "Daily habbits of a web developer"
+title:  "Daily habits of a web developer"
 date:   2017-04-14 21:12:00 +0100
-categories: habbits newsletter web developer
+categories: habits newsletter web developer
 description: There are some things on the web that I like to take a look at on an almost daily basis
              in order to improve, learn new things and keep up to date with whats cutting edge. So the
-             following will be a list of some of my daily habbits (the good ones at least).
+             following will be a list of some of my daily habits (the good ones at least).
 ---
 
 There are some things on the web that I like to take a look at on an almost daily basis
 in order to improve, learn new things and keep up to date with whats cutting edge. So the
-following will be a list of some of my daily habbits (the good ones at least).
+following will be a list of some of my daily habits (the good ones at least).
 
 ## Versioning
 
