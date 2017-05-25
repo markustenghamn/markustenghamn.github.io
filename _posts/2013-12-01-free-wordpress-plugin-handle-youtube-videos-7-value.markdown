@@ -5,7 +5,7 @@ redirect_from:
    - /free-wordpress-plugin-handle-youtube-videos-7-value
 date:   2013-12-01 23:33:53 +0100
 categories: best domain registrar
-description: This months freebie over at CodeCanyon is a "jQuery responsive youtube playlist for Wordpress" which will let you display a youtube playlist on your Wordpress site without a lot of
+description: This months freebie over at CodeCanyon is a "jQuery responsive youtube playlist for Wordpress" which will let you display a youtube...
 ---
 
 This months freebie over at CodeCanyon is a "jQuery responsive youtube playlist for Wordpress" which will let you display a youtube playlist on your Wordpress site without a lot of work.

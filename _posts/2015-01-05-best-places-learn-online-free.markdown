@@ -5,7 +5,7 @@ redirect_from:
    - /best-places-learn-online-free
 date:   2015-01-05 16:03:17 +0100
 categories: best domain registrar
-description: When I have some free time I love to practice my skills and work on getting better. The following list is a few of my favorite places to go to when I want to learn online for free.
+description: When I have some free time I love to practice my skills and work on getting better. The following list is a few of my favorite places to go to when I...
 ---
 
 When I have some free time I love to practice my skills and work on getting better. The following list is a few of my favorite places to go to when I want to learn online for free.

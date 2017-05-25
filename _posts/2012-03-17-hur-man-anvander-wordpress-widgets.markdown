@@ -5,7 +5,7 @@ redirect_from:
    - /hur-man-anvander-wordpress-widgets
 date:   2012-03-17 23:00:17 +0100
 categories: best domain registrar
-description: Del 2 - Hur man använder Wordpress - Inlägg och sidor Temat du använder måste ha support för widgets för att
+description: Del 2 - Hur man använder Wordpress - Inlägg och sidor Temat du...
 ---
 
 ### [Del 2 - Hur man använder Wordpress - Inlägg och sidor](http://markustenghamn.se/hur-man-anvander-wordpress-widgets/)

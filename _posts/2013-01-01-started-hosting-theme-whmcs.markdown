@@ -5,7 +5,7 @@ redirect_from:
    - /started-hosting-theme-whmcs
 date:   2013-01-01 01:05:44 +0100
 categories: best domain registrar
-description: I recently purchased the Just Hosting theme for whmcs which is a great looking theme that I want to use for m new site Zunem.com. Here I will go through the initial steps needed to set everything up s
+description: I recently purchased the Just Hosting theme for whmcs which is a great looking theme that I want to use for m new site Zunem.com. Here I will go throu...
 ---
 
 I recently purchased the Just Hosting theme for whmcs which is a great looking theme that I want to use for m new site Zunem.com. Here I will go through the initial steps needed to set everything up so that you can start selling web hosting! [Read my continued post here](http://markustenghamn.com/just-hosting-theme-whmcs "Just Hosting Theme for WHMCS")
@@ -16,10 +16,7 @@ I recently purchased the Just Hosting theme for whmcs which is a great looking t
 - [Just Hosting WHMCS Theme - http://themeforest.net/item/just-hosting/408834](http://themeforest.net/item/just-hosting/408834?ref=bigideaguy "Just Hosting WHMCS Theme")
 - [Hosting and a domain](http://zunem.com "Zunem Hosting")
  
-  
- Sponsor: <script language="javascript" src="http://www.anrdoezrs.net/placeholder-6786931?target=_top&text=%3Clink%3EWeb+Hosting+for+only+1+Penny%21%3C%2Flink%3E&mouseover=N" type="text/javascript"></script>  
-  
-### Setting up WHMCS
+ Sponsor: <script language="javascript" src="http://www.anrdoezrs.net/placeholder-6786931?target=_top&text=%3Clink%3EWeb+Hosting+for+only+1+Penny%21%3C%2Flink%3E&mouseover=N" type="text/javascript"></script>### Setting up WHMCS
 
  Before we begin configuring the Just Hosting Theme we need to install WHMCS. I won't go through the details of how to set this up, guides on how to do this can be found [here](http://docs.whmcs.com/Installing_WHMCS "Setting up WHMCS"), if needed help you can always hire me to set it up. I installed my WHMCS in a folder called "whmcs" which is the default when extracting the whmcs files. Other common names for this folder are shop, store, or clients. Some also run whmcs on a subdomain or in some cases on a seperate domain. For this tutorial I will assume that you are using a folder called whmcs. ### Installing the Theme
 

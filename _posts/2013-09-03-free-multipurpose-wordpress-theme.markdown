@@ -5,7 +5,7 @@ redirect_from:
    - /free-multipurpose-wordpress-theme
 date:   2013-09-03 16:51:08 +0100
 categories: best domain registrar
-description: Here is this months free wordpress theme from themeforest. It is available for registered members to download at no cost at all! This offer is valid until the end of september!
+description: Here is this months free wordpress theme from themeforest. It is available for registered members to download at no cost at all! This offer is valid u...
 ---
 
 Here is this months free wordpress theme from themeforest. It is available for registered members to download at no cost at all! This offer is valid until the end of september! [Click here](http://themeforest.net/item/vintage-immersed-multipurpose-wordpress-theme/2866563?WT.ac=free_file&WT.seg_1=free_file&WT.z_author=designthemes&ref=bigideaguy "Vintage Immersed - Multipurpose WordPress Theme") to get your theme now!

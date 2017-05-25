@@ -5,7 +5,7 @@ redirect_from:
    - /podio-for-contact-form-7-updated-1-2
 date:   2015-01-07 18:14:20 +0100
 categories: best domain registrar
-description: I recently updated my Wordpress plugin Podio For Contact Form 7. This latest update fixes a few issues which broke t
+description: I recently updated my Wordpress plugin Podio For Contact Form 7. T...
 ---
 
 I recently updated my Wordpress plugin [Podio For Contact Form 7](http://anve.to/9qwgJ "Podio For Contact Form 7"). This latest update fixes a few issues which broke the previous version due to Contact Form 7 updates. I also had many questions on how to find API details so I have added a detailed description on how to find this. I have also made debugging easier. In addition to all this I have also added a github repository for anyone who wants to contribute and help with the plugin.

@@ -5,7 +5,7 @@ redirect_from:
    - /teambuildning-gav-segern-solution-hunt
 date:   2014-02-10 22:11:42 +0100
 categories: best domain registrar
-description: Fredagen den 7e februari 2014 deltog jag i Solution Hunt! Solution Hunt är en tävling där studentteam jagar lösningar på skarpa företagsproblem. Jag lyckades få vara med i tävlingen och hamnad
+description: Fredagen den 7e februari 2014 deltog jag i Solution Hunt! Solution Hunt är en tävling där studentteam jagar lösningar på skarpa företagsproblem....
 ---
 
 Fredagen den 7e februari 2014 deltog jag i Solution Hunt! Solution Hunt är en tävling där studentteam jagar lösningar på skarpa företagsproblem. Jag lyckades få vara med i tävlingen och hamnade i ett riktigt dream team, team 1! Tack vare vår teambuilding innan tävlingen så lyckades vi jobba tillsammans, hitta riktigt bra lösningar på de problem som presenterades, för att sedan vinna tävlingen! Vårt pris är biljetter till årets Guldstänk ([http://guldstank.se/](http://guldstank.se/ "Guldstänk")) På lördagen skrev VLT en artikel om vår seger. Synd att de stavade Tenghamn fel men är hur som helst glad!

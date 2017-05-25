@@ -5,7 +5,7 @@ redirect_from:
    - /zoomable-image-view-iphone-xcode-4-6
 date:   2013-06-26 23:24:49 +0100
 categories: best domain registrar
-description: When developing an iPhone app I was recently presented with the challenge of displaying an image and allow for it to be zoomed in and out on while also allowing for a scroll function, up, down and sid
+description: When developing an iPhone app I was recently presented with the challenge of displaying an image and allow for it to be zoomed in and out on while als...
 ---
 
 When developing an iPhone app I was recently presented with the challenge of displaying an image and allow for it to be zoomed in and out on while also allowing for a scroll function, up, down and side to side. To accomplish this I used xcode and created my xib with an UIImageView which I placed inside of a UIScrollView like so. (image removed) I wish that was it, but unfortunately there is a bit more to do. We need to add some code to handle the zoom and scroll functions for us. I have compiled and modified this code from various sources, mostly from stackoverflow and I want to give partial credit to[this guide](http://stackoverflow.com/questions/8275234/how-do-i-add-a-scrollable-zoomable-image-into-the-mainview-xib-of-a-utility-base "How do I add a scrollable/zoomable image into the MainView.xib of a Utility Based iPhone Application") which may also help you if my guide is not sufficent. We will be using the image view and scroll view delegates in our .m file so we declare them in the header file like so.

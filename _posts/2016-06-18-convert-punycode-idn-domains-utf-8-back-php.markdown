@@ -5,7 +5,7 @@ redirect_from:
    - /convert-punycode-idn-domains-utf-8-back-php
 date:   2016-06-18 01:35:07 +0100
 categories: best domain registrar
-description: So I am sitting here late at night and I registered a few swedish .xyz domains that contain characters åäö. For example you may have the domain for horse in swedish, häst.xyz, this domain is actua
+description: So I am sitting here late at night and I registered a few swedish .xyz domains that contain characters åäö. For example you may have the domain for...
 ---
 
 So I am sitting here late at night and I registered a few swedish .xyz domains that contain characters åäö. For example you may have the domain for horse in swedish, häst.xyz, this domain is actually written as xn--hst-qla.xyz. Now I wanted to create a  temporary catch-all page for these swedish domains until I can build a site for them. What I did was to get the domain name as a variable which I echo in the title and body of the page using the following server variable:

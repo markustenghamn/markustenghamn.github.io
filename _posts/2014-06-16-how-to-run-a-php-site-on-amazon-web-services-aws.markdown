@@ -5,7 +5,7 @@ redirect_from:
    - /how-to-run-a-php-site-on-amazon-web-services-aws
 date:   2014-06-16 13:00:07 +0100
 categories: best domain registrar
-description: The other day I got started with AWS for the first time and it was much easier than I thought but still a little pricy if you are only looking for regular web hosting. However, if you need something t
+description: The other day I got started with AWS for the first time and it was much easier than I thought but still a little pricy if you are only looking for reg...
 ---
 
 The other day I got started with AWS for the first time and it was much easier than I thought but still a little pricy if you are only looking for regular web hosting. However, if you need something that will scale quickly [AWS](http://aws.amazon.com/ "AWS") can be a great option. My initial cost is nothing since I am getting Free Tier pricing which will give me 750 hours free, or about one month. Estimated costs after the free tier was $34 per month. So how do we get started? [AWS](http://aws.amazon.com/ "AWS") has a lot of different things to choose from, do you need EC2? S3? And what is Glacier? To be honest I am still not an expert on any of the different services but what I do know is that you will most likely need more than one, this is where [Elastic Beanstalk](http://aws.amazon.com/elasticbeanstalk/ "Elastic Beanstalk") comes into play! This is basically an all in one package for all the services you will need, to me it is easier than getting started with a regular web hosting plan. You simply start your instance and upload a zip file with the files for your application. Here is a description from the AWS website:

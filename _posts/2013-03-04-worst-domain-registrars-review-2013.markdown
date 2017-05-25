@@ -5,7 +5,7 @@ redirect_from:
    - /worst-domain-registrars-review-2013
 date:   2013-03-04 14:43:49 +0100
 categories: best domain registrar
-description: Click here to see my review for 2014! Please n
+description: Click here...
 ---
 
 **[Click here](http://markustenghamn.com/best-and-worst-domain-registrars-my-review-2014 "Best and Worst Domain Registrars 2014")to see my review for 2014!** Please note that I do have to disclose that I do have advertisements which I earn money from for [name.com](http://Name.com "Name.com") on my blog which is one of the registrars that I am reviewing. However I display their ads because it is a company I like and respect and I do my best to try not to be biased and I give my reasoning for my choices below. Links in the following text are not affiliate links and will not earn me money. The Best - Name.com

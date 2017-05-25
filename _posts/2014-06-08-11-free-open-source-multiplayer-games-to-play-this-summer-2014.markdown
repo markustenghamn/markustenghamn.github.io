@@ -5,7 +5,7 @@ redirect_from:
    - /11-free-open-source-multiplayer-games-to-play-this-summer-2014
 date:   2014-06-08 00:01:02 +0100
 categories: best domain registrar
-description: Me and my brother decided to find some decent multiplayer games to try over the weekend and here are a few that we came up with. These are all open source and free to play. At the bottom I have also l
+description: Me and my brother decided to find some decent multiplayer games to try over the weekend and here are a few that we came up with. These are all open so...
 ---
 
 Me and my brother decided to find some decent multiplayer games to try over the weekend and here are a few that we came up with. These are all open source and free to play. At the bottom I have also listed some games which are free to play but which are not open source. Oh! and all of the games on this page are multiplayer which is perfect for a lan party or simply to play with friends. Why did we pick open source games? It's always fun to pick apart games to see how they are built in order to learn new things!

@@ -5,7 +5,7 @@ redirect_from:
    - /ways-improve-business-email-correspondence
 date:   2013-12-11 23:41:57 +0100
 categories: best domain registrar
-description: The importance of email correspondence can't be underestimated, as it is one of the main business communication means today. While the paper form of communication is always formal and official,  emai
+description: The importance of email correspondence can't be underestimated, as it is one of the main business communication means today. While the paper form of c...
 ---
 
 The importance of email correspondence can't be underestimated, as it is one of the main business communication means today. While the paper form of communication is always formal and official,  email correspondence leaves you a lot of space to vary your style, structure and the level of formality. This is especially important in direct sales, where individual approach to every client is crucial. In this article, I'd like to outline some important aspects to make email correspondence work the right way.

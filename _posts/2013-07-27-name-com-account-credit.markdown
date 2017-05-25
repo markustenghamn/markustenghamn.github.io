@@ -5,7 +5,7 @@ redirect_from:
    - /name-com-account-credit
 date:   2013-07-27 10:45:49 +0100
 categories: best domain registrar
-description: I use name.com all the time for domain purchases and transfers and sometimes I end up with some account credit because a transfer fails or I pay too much perhaps. At the time I had a balance of $8 and
+description: I use name.com all the time for domain purchases and transfers and sometimes I end up with some account credit because a transfer fails or I pay too m...
 ---
 
 I use name.com all the time for domain purchases and transfers and sometimes I end up with some account credit because a transfer fails or I pay too much perhaps. At the time I had a balance of $8 and was only interested in domains which cost about $11 and I found no way to use the credit towards my cart total. After sending a support email to name.com and getting a quick response I had my answer.

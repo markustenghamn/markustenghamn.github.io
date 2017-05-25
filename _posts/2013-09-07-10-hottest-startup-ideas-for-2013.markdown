@@ -5,7 +5,7 @@ redirect_from:
    - /10-hottest-startup-ideas-for-2013
 date:   2013-09-07 00:16:32 +0100
 categories: best domain registrar
-description: 2013 has truly been a year of innovation and creativity for tons of new and interesting startups. Here are some of the fasted growing areas for these new startups and what entrepreneurs should be taki
+description: 2013 has truly been a year of innovation and creativity for tons of new and interesting startups. Here are some of the fasted growing areas for these...
 ---
 
 2013 has truly been a year of innovation and creativity for tons of new and interesting startups. Here are some of the fasted growing areas for these new startups and what entrepreneurs should be taking advantage of.

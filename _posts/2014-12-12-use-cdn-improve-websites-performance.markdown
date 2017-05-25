@@ -5,7 +5,7 @@ redirect_from:
    - /use-cdn-improve-websites-performance
 date:   2014-12-12 01:27:35 +0100
 categories: best domain registrar
-description: Every day we are getting more and more connected allowing users from all over the world to visit your website. However your website is located on a server which is most likely close to your location.
+description: Every day we are getting more and more connected allowing users from all over the world to visit your website. However your website is located on a se...
 ---
 
 Every day we are getting more and more connected allowing users from all over the world to visit your website. However your website is located on a server which is most likely close to your location. This means that while your site loads fast for you it may be a different story for users in other parts of the world. With a CDN you can solve the speed issue by basically having your website in many places at the same time. A CDN will also solve a bunch of other potential problems that your site may be facing such as preventing crashes, improving the user experience and improve SEO for your website!

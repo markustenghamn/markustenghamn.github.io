@@ -5,7 +5,7 @@ redirect_from:
    - /whmcs-licensing-addon-storing-the-local-key
 date:   2012-08-07 03:33:42 +0100
 categories: best domain registrar
-description: Please see my updated guide on
+description: Please see my updated guide on...
 ---
 
 **Please see my updated guide on [How to setup and configure the WHMCS Licensing Addon](http://markustenghamn.com/how-to-configure-and-setup-whmcs-licensing-addon-review-how-to "How to configure and setup WHMCS Licensing Addon [Review] [How to]")** This post will discuss how the local key is returned and what it does. If you need help configuring the WHMCS licensing Addon please read my previous post [How to configure and setup WHMCS Licensing addon](http://markustenghamn.com/configure-setup-whmcs-licensing-addon). So let's get started, this is how WHMCS explains the local key in their FAQ section. > The local key is the thing that stops the license checking code having to call your server on every page load. It's basically just an encrypted version of the license check data, so that when it's present and valid, the licensing addon doesn't have to make a remote call which would slow down your application/code, thus improving performance. The local key will always be empty on the first check your client makes, but then with every successful remote check, a local key value is returned (sample code provided) which you then just need to store and pass into any future license check calls. We recommend storing into a database for ease of updating and retrieval, but flat files can work just as well.

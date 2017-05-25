@@ -5,7 +5,7 @@ redirect_from:
    - /months-freebies-april-2013
 date:   2013-04-03 04:18:02 +0100
 categories: best domain registrar
-description: As a registered user at Themeforest you get access to freebies every month. Below are this months freebies, all
+description: As a registered user at Themeforest you get access to freebie...
 ---
 
 As a registered user at [Themeforest](http://themeforest.net/?ref=bigideaguy "Themeforest") you get access to freebies every month. Below are this months freebies, all you have to do to get them is [register](http://themeforest.net/?ref=bigideaguy "Themeforest").

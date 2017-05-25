@@ -5,7 +5,7 @@ redirect_from:
    - /10-free-high-quality-wordpress-themes-website-2015
 date:   2014-12-11 04:16:29 +0100
 categories: best domain registrar
-description: I have compiled a list of some really good free Wordpress themes that you can get at no cost at all. Most Wordpress themes are easy to install on an existing Wordpress site, however, if you need help
+description: I have compiled a list of some really good free Wordpress themes that you can get at no cost at all. Most Wordpress themes are easy to install on an e...
 ---
 
 I have compiled a list of some really good free Wordpress themes that you can get at no cost at all. Most Wordpress themes are easy to install on an existing Wordpress site, however, if you need help getting started we can set up and configure your Wordpress site for around $100. Feel free to get in touch with me over at [Anveto Designs](http://anvetodesigns.com/ "Anveto Designs") ([http://anvetodesigns.com](http://anvetodesigns.com "Anveto Designs")). We will start off our list with [Fullby](http://www.marchettidesign.net/fullby/ "Fullby Wordpress Theme")! https://www.youtube.com/watch?v=eK02GUEqay4

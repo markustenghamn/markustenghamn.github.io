@@ -5,7 +5,7 @@ redirect_from:
    - /4-golden-rules-keep-wordpress-site-secure
 date:   2016-06-11 17:36:01 +0100
 categories: best domain registrar
-description: I have worked with Wordpress for about 10 years, with my own websites and clients websites. My sites have been hacked in the past. While working at one of Sweden's largest web hosts I would fix broken
+description: I have worked with Wordpress for about 10 years, with my own websites and clients websites. My sites have been hacked in the past. While working at on...
 ---
 
 I have worked with Wordpress for about 10 years, with my own websites and clients websites. My sites have been hacked in the past. While working at one of Sweden's largest web hosts I would fix broken and hacked Wordpress sites on a daily basis. Today I work as an IT Security Manager where I do everything from keeping our companys Wordpress site secure to securing several servers and networks that we have at more than 5 different physical locations. From all of this experience I have learned a lot and this has led me to create a list of 4 golden rules which will keep your Wordpress site safe and secure.

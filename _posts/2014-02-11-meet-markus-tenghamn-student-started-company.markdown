@@ -5,7 +5,7 @@ redirect_from:
    - /meet-markus-tenghamn-student-started-company
 date:   2014-02-11 12:44:25 +0100
 categories: best domain registrar
-description: This is a translated post from my the swedish version
+description: This is a translated post from my the...
 ---
 
 This is a translated post from my the [swedish version](http://markustenghamn.se/mot-markus-tenghamn-studenten-som-startade-eget "Möt Markus Tenghamn - Studenten som startade eget") of my blog. I was recently featured in a book published by the eastern swedish chamber of commerce. Out of a total of 30 projects, 2 of my projects were featured in addition to a full page titled "Meet Markus Tenghamn - The Student That Started His Own Company". The following text is a Google translate version of the actual page.

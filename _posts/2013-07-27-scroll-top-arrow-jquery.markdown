@@ -5,7 +5,7 @@ redirect_from:
    - /scroll-top-arrow-jquery
 date:   2013-07-27 10:22:36 +0100
 categories: best domain registrar
-description: I wanted to add a scroll to top arrow to a site I was doing for a client recently as I think it looks nice and clever. It is fairly simple to do. To begin make sure you have jQuery added to your page,
+description: I wanted to add a scroll to top arrow to a site I was doing for a client recently as I think it looks nice and clever. It is fairly simple to do. To b...
 ---
 
 I wanted to add a scroll to top arrow to a site I was doing for a client recently as I think it looks nice and clever. It is fairly simple to do. To begin make sure you have jQuery added to your page, the following code between your head tags will do the trick.
@@ -13,9 +13,7 @@ I wanted to add a scroll to top arrow to a site I was doing for a client recentl
 ```
 <pre lang="php">
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-``` Now to add our arrow up button to the page I will use a 66px by 67px image as seen here.  
- (image removed)   
- To add this to the page using css I will use the following code between the head tags again. ```
+``` Now to add our arrow up button to the page I will use a 66px by 67px image as seen here. (image removed) To add this to the page using css I will use the following code between the head tags again. ```
 <pre lang="php">
 
 <style>

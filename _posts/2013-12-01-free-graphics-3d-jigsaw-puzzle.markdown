@@ -5,7 +5,7 @@ redirect_from:
    - /free-graphics-3d-jigsaw-puzzle
 date:   2013-12-01 23:32:17 +0100
 categories: best domain registrar
-description: Whenever I am in need of some ideas for graphics or I just need some simple graphics for a project I always go to
+description: Whenever I am in need of some ideas for graphics or I just need some simple graphics for a project I always go to...
 ---
 
 Whenever I am in need of some ideas for graphics or I just need some simple graphics for a project I always go to [GraphicRiver](http://graphicriver.net/?ref=Bigideaguy "GraphicRiver"). They feature some really talented artists with good work at reasonable prices. This month they are featuring a [3D jigsaw puzzle](http://graphicriver.net/item/3d-jigsaw-puzzle/64582?WT.ac=free_file&WT.seg_1=free_file&WT.z_author=fractma&ref=Bigideaguy "3D Jigsaw Puzzle") as a free giveaway. Anyone who is a member can download it for free, if you are not already a member you can always [sign up for free](https://account.envato.com/sign_up?to=graphicriver "Sign up for a free account"). Below is the description taken from the product page.

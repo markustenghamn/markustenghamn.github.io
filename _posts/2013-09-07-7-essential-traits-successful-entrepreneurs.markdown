@@ -5,7 +5,7 @@ redirect_from:
    - /7-essential-traits-successful-entrepreneurs
 date:   2013-09-07 15:50:08 +0100
 categories: best domain registrar
-description: Successful Entrepreneurs stand out, they are a bit different than the rest of us. They have those key traits that make them succeed when the rest of us shudder at the thought of launching our own star
+description: Successful Entrepreneurs stand out, they are a bit different than the rest of us. They have those key traits that make them succeed when the rest of u...
 ---
 
 Successful Entrepreneurs stand out, they are a bit different than the rest of us. They have those key traits that make them succeed when the rest of us shudder at the thought of launching our own startup. Below are some of the most essential traits of successful Entrepreneurs.

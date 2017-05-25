@@ -5,7 +5,7 @@ redirect_from:
    - /configure-setup-whmcs-licensing-addon
 date:   2012-05-18 22:00:35 +0100
 categories: best domain registrar
-description: Please see my updated guide on
+description: Please see my updated guide on...
 ---
 
 **Please see my updated guide on [How to setup and configure the WHMCS Licensing Addon](http://markustenghamn.com/how-to-configure-and-setup-whmcs-licensing-addon-review-how-to "How to configure and setup WHMCS Licensing Addon [Review] [How to]")** I get a lot of questions in regards to how to use the WHMCS licensing addon which is why I wrote a post a while back which described how to get the code working. That guide is outdated and did not show any code which is why I want to write a new guide with a little bit of code, but not enough to disclose how the whmcs licensing addon works. When you purchase the [WHMCS licensing addon](http://anve.to/i5irP "WHMCS licensing addon") you will receive several files but you will only have to worry about one for this guide which is the check\_sample\_code.php file. This is an example by WHMCS to show you how the code should be implemented in your script, plugin or theme. I will now walk through the example file and show you which parts are important and what they do. inside the function check\_license() we have the following code. ```
