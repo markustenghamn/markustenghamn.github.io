@@ -4,11 +4,10 @@ title:  "Visa slutsålda produkter sist i Magento"
 redirect_from:
    - /visa-slutsalda-produkter-sist-magento
 date:   2012-04-21 22:00:34 +0100
-categories: best domain registrar
 description: Ett problem med Magento är att när produkter är slutsålda så visas de fortfarante i Magento sök och i kategorier. Här är ett snabbt och enkelt sätt att ändra så att de visas sist i listan....
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Ett problem med Magento är att när produkter är slutsålda så visas de fortfarante i Magento sök och i kategorier. Här är ett snabbt och enkelt sätt att ändra så att de visas sist i listan.  
   

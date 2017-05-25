@@ -4,11 +4,10 @@ title:  "Creating a Tag Cloud with PHP"
 redirect_from:
    - /creating-tag-cloud-php
 date:   2012-03-15 01:43:56 +0100
-categories: best domain registrar
 description: I have previously uploaded this code to SourceCodeDB.com http://sourcecodedb.com/Create-a-tag-cl...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I have previously uploaded this code to SourceCodeDB.com  
 [http://sourcecodedb.com/Create-a-tag-cloud-with-php.html](http://sourcecodedb.com/Create-a-tag-cloud-with-php.html "Create a tag cloud with php")  

@@ -4,11 +4,11 @@ title:  "Fight Piracy With Marketing!"
 redirect_from:
    - /fight-piracy-marketing
 date:   2016-03-27 16:59:03 +0100
-categories: best domain registrar
+categories: fight piracy
 description: If you are a publisher like me you will notice that the things you create will appear on torrenting sites every now and then which allows anyone to download your addon for free. Personally I don't fig...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 If you are a publisher like me you will notice that the things you create will appear on torrenting sites every now and then which allows anyone to download your addon for free. Personally I don't fight piracy by filing DMCA notices, asking to have it removed and such. I believe that doing something like that is only a waste of my time and someone will probably upload everything again once it is taken down. By letting it be it allows users to test my creation and I believe that those who truly like what I do will purchase what I have created.  
   

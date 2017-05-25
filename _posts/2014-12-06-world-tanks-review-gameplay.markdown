@@ -4,11 +4,11 @@ title:  "World of Tanks Review With Gameplay!"
 redirect_from:
    - /world-tanks-review-gameplay
 date:   2014-12-06 12:57:42 +0100
-categories: best domain registrar
+categories: world of tanks review
 description: I have been playing World of Tanks for about 2 years now and it is a really fun game. You can see my profile...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I have been playing World of Tanks for about 2 years now and it is a really fun game. You can see my profile [here](http://worldoftanks.eu/community/accounts/510076181-uberbrainchild/ "Uberbrainchild on World of Tanks"), feel free to add me, I play very casually and my favorite type of tank is artillery. Hopefully my review will show why it is such a fun game and why it is definitely worth trying as it is free to play. There are also a few negative aspects which I will cover but I think overall the good outweighs the bad and I am giving this game a 4.5/5. Fix the issues and World of Tanks would get a 5/5! Below is a video from [BigSwedish](https://www.youtube.com/user/hugeswedish "BigSwedish on YouTube") which shows us in a few team battles we played a few days back.  
   

@@ -4,11 +4,10 @@ title:  "WHMCS Licensing Addon - Storing the local key with MySQL"
 redirect_from:
    - /whmcs-licensing-addon-storing-the-local-key
 date:   2012-08-07 03:33:42 +0100
-categories: best domain registrar
 description: Please see my updated guide on...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 **Please see my updated guide on [How to setup and configure the WHMCS Licensing Addon](http://markustenghamn.com/how-to-configure-and-setup-whmcs-licensing-addon-review-how-to "How to configure and setup WHMCS Licensing Addon [Review] [How to]")**  
   

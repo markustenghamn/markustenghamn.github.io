@@ -4,11 +4,10 @@ title:  "NuSphere PhpED - My Review 2013"
 redirect_from:
    - /nusphere-phped-review-2013
 date:   2013-04-11 10:58:25 +0100
-categories: best domain registrar
 description: I recently started using the PhpED IDE for some of my new PHP projects when I work on a windows platform. I reall...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I recently started using the [PhpED IDE](http://www.nusphere.com/products/phped.htm "PhpED") for some of my new PHP projects when I work on a windows platform. I really wish [PhpED](http://www.nusphere.com/products/phped.htm "PhpED") was made to work on other platforms but we will have to wait and see if that happens in the future.  
   

@@ -4,11 +4,10 @@ title:  "The Ultimate Guide To Speeding Up Your PC and/or Mac 2014"
 redirect_from:
    - /ultimate-guide-speeding-pc-andor-mac-2014
 date:   2014-02-09 17:59:45 +0100
-categories: best domain registrar
 description: There are many guides out there that will explain different ways of speeding up your PC or Mac. But be careful as some websites are simply repeating the same old solutions that don't work or perhaps t...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 There are many guides out there that will explain different ways of speeding up your PC or Mac. But be careful as some websites are simply repeating the same old solutions that don't work or perhaps they have some hidden motives to get you to download malware which will possible slow your computer down even more. I have compiled the following list from my personal experience of working with computers as a computer science major and helping family and friends with their own slow computers. The list will contain fixes that can be performed for free with software and also hardware upgrades which won't set you back too much but definitely increase performance. I will also add my own comments and feedback in regards to if an upgrade will actually be worth it so that you don't waste any money or time.
 

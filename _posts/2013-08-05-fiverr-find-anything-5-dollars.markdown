@@ -4,11 +4,10 @@ title:  "Fiverr - Find Anything For $5"
 redirect_from:
    - /fiverr-find-anything-5-dollars
 date:   2013-08-05 22:41:19 +0100
-categories: best domain registrar
 description: I had heard of Fiverr and similar sites before which let's users post "gigs" and offer their products or services for $5 wi...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I had heard of [Fiverr](http://tracking.fiverr.com/SHIb "Fiverr") and similar sites before which let's users post "gigs" and offer their products or services for $5 with additional services available at an extra cost. Last time I checked these sites they seemed to have a fairly low number of users and the services and products offered seemed to be of poor or questionable quality. However, I recently revisited [Fiverr](http://tracking.fiverr.com/SHIb "Fiverr") and signed up for an account right away. Suddently I found lot's of people who would do decent quality work for only $5 and I even got interested in offering my own services!  
  (image removed)   

@@ -4,11 +4,10 @@ title:  "Today We Launch Anveto Design and Anveto Dev"
 redirect_from:
    - /today-launch-anveto-design-anveto-dev
 date:   2014-01-24 18:28:14 +0100
-categories: best domain registrar
 description: Today we are launching Anveto Dev (http://anvetodev.com/) and Anveto Design (...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Today we are launching Anveto Dev (<http://anvetodev.com/>) and Anveto Design (<http://anvetodesigns.com/>)! Anveto Dev is here to provide you with any programming and development tasks that you may be in need of while Anveto Design handles all of your design and branding needs. On most larger projects Anveto Dev and Anveto Design will work closely with one another in order to provide both a great development experience and a great design experience to our clients!Don’t forget to like the Anveto Dev (<https://www.facebook.com/anvetodev>) and Anveto Design (<https://www.facebook.com/pages/Anveto-Design/782411858442792>) Facebook pages.  
   

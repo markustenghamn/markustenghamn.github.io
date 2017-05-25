@@ -4,11 +4,10 @@ title:  " SFSFUM har fått en egen app!"
 redirect_from:
    - /sfsfum-har-fatt-en-egen-app
 date:   2013-09-03 17:53:15 +0100
-categories: best domain registrar
 description: Fantastiska Markus Tenghamn på Mälardalens högskola har utvecklat en app för SFSFUM. Här hittar du all praktisk information du behöver för SFSFUM. Gratis att ladda ner! (image re...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 > Fantastiska Markus Tenghamn på Mälardalens högskola har utvecklat en app för SFSFUM. Här hittar du all praktisk information du behöver för SFSFUM. Gratis att ladda ner!  
 >   

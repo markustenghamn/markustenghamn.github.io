@@ -4,11 +4,10 @@ title:  "How To Make A Scroll To Top Arrow With jQuery"
 redirect_from:
    - /scroll-top-arrow-jquery
 date:   2013-07-27 10:22:36 +0100
-categories: best domain registrar
 description: I wanted to add a scroll to top arrow to a site I was doing for a client recently as I think it looks nice and clever. It is fairly simple to do. To begin make sure you have jQuery added to your page,...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I wanted to add a scroll to top arrow to a site I was doing for a client recently as I think it looks nice and clever. It is fairly simple to do. To begin make sure you have jQuery added to your page, the following code between your head tags will do the trick.
 

@@ -4,11 +4,10 @@ title:  "Förbättra sökfunktionen i Magento"
 redirect_from:
    - /forbattra-sokfunktionen-magento
 date:   2012-04-21 20:42:53 +0100
-categories: best domain registrar
 description: Tidigare skrev jag om hur man kan ändra Magento så att produkter som är slutsålda alltid visas sist. Här är en till sak som Magento kan göra bättre. Sökfunktionen visar som default de mest re...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Tidigare skrev jag om hur man kan ändra Magento så att produkter som är slutsålda alltid visas sist. Här är en till sak som Magento kan göra bättre. Sökfunktionen visar som default de mest relevanta produkter sist i sök resultaten. Om man har flera sök termer så försöker den hitta en match en åt gången. Detta kan vi ändra på relativt lätt med lite kod.  
   

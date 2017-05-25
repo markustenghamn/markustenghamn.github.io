@@ -4,11 +4,11 @@ title:  "How to configure and setup WHMCS Licensing Addon [Review] [How to]"
 redirect_from:
    - /how-to-configure-and-setup-whmcs-licensing-addon-review-how-to
 date:   2015-03-27 13:49:38 +0100
-categories: best domain registrar
+categories: whmcs licensing addon
 description: Almost 3 years ago I wrote an article regarding WHMCS Licensing Addon and how to set it up. Back then I was new to...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Almost 3 years ago I wrote an article regarding [WHMCS Licensing Addon](http://anve.to/cHPe1 "WHMCS Licensing Addon") and how to set it up. Back then I was new to [WHMCS](http://anve.to/cHPe1 "WHMCS") and not as good at PHP as I am today. Due to the articles popularity I have decided to revisit this topic and make a new, more detailed post on how to get going with the addon. I will link to this article in the old guides as this article should be more relevant and is made for [WHMCS](http://anve.to/cHPe1 "WHMCS") version 5.3.12 and [Licensing Addon](http://anve.to/cHPe1 "WHMCS Licensing Addon") version 3.0. I have also made an easy to follow video to go along with this guide which you will find [here](http://anve.to/vu4Dt "How to configure and setup WHMCS Licensing Addon [Review] [How to]") on YouTube.  
   

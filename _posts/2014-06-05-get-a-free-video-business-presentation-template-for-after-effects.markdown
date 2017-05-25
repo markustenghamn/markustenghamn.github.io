@@ -4,11 +4,10 @@ title:  "Get A Free Video Business Presentation Template For After Effects"
 redirect_from:
    - /get-a-free-video-business-presentation-template-for-after-effects
 date:   2014-06-05 12:49:37 +0100
-categories: best domain registrar
 description: This month on VideoHive members are able to download a really nice business presentation template for after effects...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 This month on [VideoHive](http://videohive.net/?ref=Bigideaguy "VideoHive") members are able to download a really nice business presentation template for after effects, it even comes with a how to guide, [click here](http://videohive.net/item/the-business-presentation/841648?WT.ac=free_file&WT.z_author=djordjevla&ref=Bigideaguy "The Business Presentation") to see it!  
   

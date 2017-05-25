@@ -4,11 +4,10 @@ title:  "Nu lär jag mig lite Cinema 4D"
 redirect_from:
    - /nu-lar-jag-mig-lite-cinema-4d
 date:   2012-03-02 22:01:49 +0100
-categories: best domain registrar
 description: Jag har alltid vart intresserad av att skapa 3d modeller och animationer och bestämde mig för att testa Cinema 4D efter jag såg Andreas Wannerstedts video som han skapade med Cinema4D och Adobe Aft...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Jag har alltid vart intresserad av att skapa 3d modeller och animationer och bestämde mig för att testa Cinema 4D efter jag såg Andreas Wannerstedts video som han skapade med Cinema4D och Adobe After Effects. Jag har inga planer på att skapa något lika avancerat som hans video men jag tycker att lära mig programmet och hur man gör lättare saker är riktigt kul och intressant. Här är Andreas video på Vimeo: [http://vimeo.com/33294114](http://vimeo.com/33294114 "Genesis")  
   

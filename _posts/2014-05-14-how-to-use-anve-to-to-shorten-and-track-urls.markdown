@@ -4,11 +4,10 @@ title:  "How To Use Anve.to To Shorten And Track URLs"
 redirect_from:
    - /how-to-use-anve-to-to-shorten-and-track-urls
 date:   2014-05-14 11:22:51 +0100
-categories: best domain registrar
 description: Anve.to is a free to use URL shortener which is part of Anveto. Users who sign up now will have free access to the Anveto beta. Let's be...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 [Anve.to](http://Anve.to "Anve.to") is a free to use URL shortener which is part of Anveto. Users who sign up now will have free access to the Anveto beta.  
   

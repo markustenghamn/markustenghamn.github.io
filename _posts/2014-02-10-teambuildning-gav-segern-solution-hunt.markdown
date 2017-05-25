@@ -4,11 +4,10 @@ title:  "Teambuildning gav segern i Solution Hunt"
 redirect_from:
    - /teambuildning-gav-segern-solution-hunt
 date:   2014-02-10 22:11:42 +0100
-categories: best domain registrar
 description: Fredagen den 7e februari 2014 deltog jag i Solution Hunt! Solution Hunt är en tävling där studentteam jagar lösningar på skarpa företagsproblem. Jag lyckades få vara med i tävlingen och hamnad...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Fredagen den 7e februari 2014 deltog jag i Solution Hunt! Solution Hunt är en tävling där studentteam jagar lösningar på skarpa företagsproblem. Jag lyckades få vara med i tävlingen och hamnade i ett riktigt dream team, team 1! Tack vare vår teambuilding innan tävlingen så lyckades vi jobba tillsammans, hitta riktigt bra lösningar på de problem som presenterades, för att sedan vinna tävlingen!  
   

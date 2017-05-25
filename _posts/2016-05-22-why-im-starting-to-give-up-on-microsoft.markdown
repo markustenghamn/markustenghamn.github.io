@@ -4,11 +4,11 @@ title:  "Why I'm starting to give up on Microsoft"
 redirect_from:
    - /why-im-starting-to-give-up-on-microsoft
 date:   2016-05-22 13:50:35 +0100
-categories: best domain registrar
+categories: microsoft
 description: I was actually getting hopeful that Microsoft had changed for the better, that the company was going to great lengths to improve all of their services and the customer experience. I actually loved the...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I was actually getting hopeful that Microsoft had changed for the better, that the company was going to great lengths to improve all of their services and the customer experience. I actually loved the new Office 365 that I had gotten used to at work, most of us will need Office at some point and Office365 made it simple to install and manage. I was sold and wanted to get this for my personal Microsoft account.  
   

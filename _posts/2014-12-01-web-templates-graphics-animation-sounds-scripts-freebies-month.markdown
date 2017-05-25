@@ -4,11 +4,11 @@ title:  "Web Templates, Graphics, Animation, Sounds, Scripts And More Freebies T
 redirect_from:
    - /web-templates-graphics-animation-sounds-scripts-freebies-month
 date:   2014-12-01 17:20:17 +0100
-categories: best domain registrar
+categories: freebies, web templates, graphics, stock photos, free, 3d, bulletin board
 description: Its the beginning of a new month and that means more freebies from the Envato marketplace!...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Its the beginning of a new month and that means more freebies from the [Envato marketplace](http://market.envato.com/?ref=Bigideaguy "Envato Marketplace")!  
   

@@ -4,11 +4,10 @@ title:  "Maybe it's time for some affiliate marekting? Or..."
 redirect_from:
    - /time-affiliate-marekting-or
 date:   2012-01-16 02:12:57 +0100
-categories: best domain registrar
 description: I have been thinking about what I really want to do lately and I am not fully sure. At first I thought it was web design which I feel that I am pretty good at and I have had many clients who loved my...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I have been thinking about what I really want to do lately and I am not fully sure. At first I thought it was web design which I feel that I am pretty good at and I have had many clients who loved my work both when I worked as a freelancer and from what I have done and still do through [Markspixel.com](http://Markspixel.com "Markspixel"). At the moment I am leaning more towards programming which I am learning more and more about through my school. Before I went to MDH I already knew some PHP but now that I am taking the Computer Science in Software Development courses I am learning more and more about PHP, C#, Objective C and other languages.  
   

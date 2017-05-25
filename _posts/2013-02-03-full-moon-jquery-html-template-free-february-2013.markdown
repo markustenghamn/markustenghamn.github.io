@@ -4,11 +4,10 @@ title:  "Full Moon jQuery HTML Template - Free February 2013"
 redirect_from:
    - /full-moon-jquery-html-template-free-february-2013
 date:   2013-02-03 05:48:47 +0100
-categories: best domain registrar
 description: It's a new month and Themeforest has yet another free item that they are giving away! Simply sign in or create a free account to download the template which can be found at the following link: Full...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 It's a new month and Themeforest has yet another free item that they are giving away! Simply sign in or create a free account to download the template which can be found at the following link:  
   

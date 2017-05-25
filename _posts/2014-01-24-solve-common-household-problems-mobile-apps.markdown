@@ -4,11 +4,10 @@ title:  "How to Solve Common Household Problems With Mobile Apps"
 redirect_from:
    - /solve-common-household-problems-mobile-apps
 date:   2014-01-24 04:07:16 +0100
-categories: best domain registrar
 description: The following is a guest post by Nancy Baker, enjoy! It's hard to imagine that only a decade ago the app industry didn't exist. Today it is one of the most profitable and pervasive industries in th...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 The following is a guest post by Nancy Baker, enjoy!  
   

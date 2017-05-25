@@ -4,11 +4,11 @@ title:  "Using A Theme Vs. A Custom Design For Your Business Website"
 redirect_from:
    - /using-theme-vs-custom-design-business-website
 date:   2014-12-10 23:55:38 +0100
-categories: best domain registrar
+categories: theme
 description: I have worked as a web developer for over 8 years now and I have learned a lot from the time I started with clients ranging from artists/authors who needed a personal page to multinational corporation...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I have worked as a web developer for over 8 years now and I have learned a lot from the time I started with clients ranging from artists/authors who needed a personal page to multinational corporations who had more complex requirements. I have also used themes for clients in addition to designing or finding someone who will make a custom design which I will then implement for my clients. What it all comes down to is usually budget. There is nothing wrong with using a theme for your personal page or business. I would suggest that you start thinking about a custom design when your business is ready to start working on branding, this means banners, signs, business cards, envelopes, paper and more. These should all be based on a [corporate identity](http://en.wikipedia.org/wiki/Corporate_identity "Corporate Identity") which a designer will make for your company.  
   

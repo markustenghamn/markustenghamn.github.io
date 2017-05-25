@@ -4,11 +4,10 @@ title:  "Hur man använder Wordpress - Inlägg och Sidor"
 redirect_from:
    - /hur-man-anvander-wordpress-inlagg-och-sidor
 date:   2012-03-17 22:55:50 +0100
-categories: best domain registrar
 description: Del 1 - Hur man använder Wordpress - Intro Inlägg...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 ### [Del 1 - Hur man använder Wordpress - Intro](http://markustenghamn.se/hur-man-anvander-wordpress-intro/)
 

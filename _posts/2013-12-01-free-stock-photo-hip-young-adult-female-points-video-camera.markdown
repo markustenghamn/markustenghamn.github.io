@@ -4,11 +4,10 @@ title:  "Free Stock Photo: Hip Young Adult Female Points Video Camera"
 redirect_from:
    - /free-stock-photo-hip-young-adult-female-points-video-camera
 date:   2013-12-01 23:36:51 +0100
-categories: best domain registrar
 description: Whenever you need some stock photography you can always find it on Photodune. Now in December they are giving away...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Whenever you need some stock photography you can always find it on [Photodune](http://photodune.net/?ref=Bigideaguy "Photodune"). Now in December they are giving away a free stock photo as they always do! Don't miss your chance!  
   

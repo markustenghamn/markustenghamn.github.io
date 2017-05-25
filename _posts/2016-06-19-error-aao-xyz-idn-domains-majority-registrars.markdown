@@ -4,11 +4,11 @@ title:  "Error with åäö .xyz IDN domains for a majority of registrars"
 redirect_from:
    - /error-aao-xyz-idn-domains-majority-registrars
 date:   2016-06-19 11:39:41 +0100
-categories: best domain registrar
+categories: idn domains
 description: So lately I tried registering a few .xyz domains containing the swedish characters åäö over at NameCheap which failed,...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 So lately I tried registering a few .xyz domains containing the swedish characters åäö over at [NameCheap](https://www.namecheap.com/?aff=101681) which failed, [NameCheap](https://www.namecheap.com/?aff=101681) is one of my favorite registrars ([See my review of the best and worst registrars here](http://tenghamn.com/best-and-worst-domain-registrars-my-review-2014)). The fact that my order failed surprised me since I had previously registered swedish domain names with åäö characters without a problem. I would get an error that said "IDN table 'swe' is not supported by this server.". I contacted NameCheap support regarding the problem and they stated that the Swedish language was not supported for .xyz domains.
 

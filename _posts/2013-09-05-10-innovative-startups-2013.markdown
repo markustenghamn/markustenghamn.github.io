@@ -4,11 +4,10 @@ title:  "The 10 Most Innovative Startups 2013"
 redirect_from:
    - /10-innovative-startups-2013
 date:   2013-09-05 14:53:43 +0100
-categories: best domain registrar
 description: The following is a list of the 10 most innovative startups of 2013 plus a bonus startup at the end of the article! SendHub...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 The following is a list of the 10 most innovative startups of 2013 plus a bonus startup at the end of the article!
 

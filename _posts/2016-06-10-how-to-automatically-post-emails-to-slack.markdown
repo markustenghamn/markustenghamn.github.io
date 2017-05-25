@@ -4,11 +4,11 @@ title:  "How to automatically post emails to Slack"
 redirect_from:
    - /how-to-automatically-post-emails-to-slack
 date:   2016-06-10 20:08:24 +0100
-categories: best domain registrar
+categories: emails to slack
 description: Slack is an amazing service, it is basically a dumbed down (in a good way) and simplified IRC client which may sound bad but it makes it super efficent and great for wo...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 [Slack](https://slack.com) is an amazing service, it is basically a dumbed down (in a good way) and simplified IRC client which may sound bad but it makes it super efficent and great for work. It is also an easier sell to non-IT coworkers who may laugh at the idea of using an IRC server for work. Anyways, sometimes it can be a great idea to post email updates directly to Slack. I have done this for a server which runs CSF & LFD (our server firewall) which sends out notifications when ips get banned, suspicious files are found or if something is just not right with the server.  
   

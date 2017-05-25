@@ -4,11 +4,10 @@ title:  "How to make a good Facebook Timeline cover / picture"
 redirect_from:
    - /good-facebook-timeline-cover-picture
 date:   2012-03-02 23:24:00 +0100
-categories: best domain registrar
 description: Download: Facebook Timeline Cover PSD To make a Facebook Timeline picture you really don't need a lot, just a good...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 [Download: Facebook Timeline Cover PSD](http://markustenghamn.com/wp-content/uploads/2012/03/fbtut.psd_.zip)  
   

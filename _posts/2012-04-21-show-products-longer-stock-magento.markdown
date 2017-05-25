@@ -4,11 +4,10 @@ title:  "Show products no longer in stock last in Magento"
 redirect_from:
    - /show-products-longer-stock-magento
 date:   2012-04-21 22:32:58 +0100
-categories: best domain registrar
 description: One big problem with Magento is that when products become out of stock they still show up very high in the product listings and this can get very annoying for some users if there are several products...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 One big problem with Magento is that when products become out of stock they still show up very high in the product listings and this can get very annoying for some users if there are several products out of stock. This very easy code fix will automatically make products that are out of stock show up last in all your categories and search results.  
   

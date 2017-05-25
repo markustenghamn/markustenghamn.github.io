@@ -4,11 +4,10 @@ title:  "Hide your email from parsers and email spiders"
 redirect_from:
    - /hide-email-parsers-email-spiders
 date:   2013-01-03 05:38:21 +0100
-categories: best domain registrar
 description: Email spiders and parsers are constantly at work scanning pages for any valuable emails that they can find. Usually your email will be used to send you some kind of advertisement or scam. This is a hu...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Email spiders and parsers are constantly at work scanning pages for any valuable emails that they can find. Usually your email will be used to send you some kind of advertisement or scam. This is a huge problem if you want to avoid these emails.  
   

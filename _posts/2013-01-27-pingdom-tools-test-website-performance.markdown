@@ -4,11 +4,10 @@ title:  "Use Pingdom Tools To Test And Improve Website Performance"
 redirect_from:
    - /pingdom-tools-test-website-performance
 date:   2013-01-27 22:02:24 +0100
-categories: best domain registrar
 description: Pingdom Tools is a set of tools offered by Pingdom at no cost at all. You can use these tools for free and without registe...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 [Pingdom Tools](http://tools.pingdom.com/ "Pingdom Tools") is a set of tools offered by Pingdom at no cost at all. You can use these tools for free and without registering at [http://tools.pingdom.com/](http://tools.pingdom.com/ "http://tools.pingdom.com/"). Pingdom is a company not too far away from where I live here in Västerås Sweden and I have been in touch with them before. I have probably used their tool for about years now and have seen how its been developed with time.  
   

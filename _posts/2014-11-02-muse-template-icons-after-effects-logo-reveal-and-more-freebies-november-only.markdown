@@ -4,11 +4,10 @@ title:  "Muse Template, Icons, After Effects Logo Reveal And More Freebies Novem
 redirect_from:
    - /muse-template-icons-after-effects-logo-reveal-and-more-freebies-november-only
 date:   2014-11-02 14:06:09 +0100
-categories: best domain registrar
 description: Here is this month's freebies from Envato. This month features a nice Muse Template, a high res mixer table stock photo, some 3D cloth chairs and sofa, a php widget to show currency rates, a flash fli...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Here is this month's freebies from Envato. This month features a nice Muse Template, a high res mixer table stock photo, some 3D cloth chairs and sofa, a php widget to show currency rates, a flash flipbook, a stunning logo reveal for After Effects, a set of beautiful icons, and finally some nice music! You get all of this for free when you create a completely free account at the envato marketplace, click [here](http://themeforest.net/?osr=tn&ref=Bigideaguy "Themeforest") to go to the envato marketplace now!  
   

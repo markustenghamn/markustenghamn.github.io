@@ -4,11 +4,10 @@ title:  "Free Audio Track - Dusty Garage Rock - A $13 Value!"
 redirect_from:
    - /free-audio-track-dusty-garage-rock-13-value
 date:   2013-12-02 00:02:44 +0100
-categories: best domain registrar
 description: The final...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 The final [freebie](http://audiojungle.net/item/dusty-garage-rock/4226079?WT.ac=free_file&WT.seg_1=free_file&WT.z_author=Music2Sync&ref=Bigideaguy "Free Dusty Garage Rock Sound") I will write about for this month! You will find it over at [AudioJungle](http://audiojungle.net/?ref=Bigideaguy "AudioJungle") and it is a pretty nice and catchy sound track which could be used for anything from video production to slideshow presentations and more!  
   

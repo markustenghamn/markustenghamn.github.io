@@ -4,11 +4,11 @@ title:  "Laravel and keeping my bitcoin bot running forever"
 redirect_from:
    - /laravel-and-keeping-my-bitcoin-bot-running-forever
 date:   2016-01-23 18:12:31 +0100
-categories: best domain registrar
+categories: laravel
 description: So I was trying to figure out how to keep a script running forever as I want to constantly get social media updates and feeds from bitcoin exchanges when I use my bot to trade. Previously I would have...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 So I was trying to figure out how to keep a script running forever as I want to constantly get social media updates and feeds from bitcoin exchanges when I use my bot to trade. Previously I would have done this with a bash script that would check for a tmp file that would be generated when the script was running and removed when it stopped, The script would be accessible as a console command in laraval making it easy to run. However, this could sometimes fail as well. I figured there must be a better way to achieve what I want to do.  
   

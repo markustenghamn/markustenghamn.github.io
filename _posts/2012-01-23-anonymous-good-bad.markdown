@@ -4,11 +4,10 @@ title:  "Anonymous - Good or Bad?"
 redirect_from:
    - /anonymous-good-bad
 date:   2012-01-23 21:47:07 +0100
-categories: best domain registrar
 description: I have been following anonymous for quite a while now and I find what they are and what they are doing pretty interesting. But is it the right thing to do and should they be doing it? There are many d...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I have been following anonymous for quite a while now and I find what they are and what they are doing pretty interesting. But is it the right thing to do and should they be doing it? There are many different ways to look at it but first let me explain what anonymous is and what they have done.  
   

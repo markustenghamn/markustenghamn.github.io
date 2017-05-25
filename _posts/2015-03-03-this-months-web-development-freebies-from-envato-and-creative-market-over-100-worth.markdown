@@ -4,11 +4,11 @@ title:  "This Months Web Development Freebies From Envato and Creative Market! O
 redirect_from:
    - /this-months-web-development-freebies-from-envato-and-creative-market-over-100-worth
 date:   2015-03-03 17:59:40 +0100
-categories: best domain registrar
+categories: freebies
 description: Nature Photo (image removed) A...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 ## [Nature Photo](http://anve.to/8ZH4P "Nature - Photodune")
 

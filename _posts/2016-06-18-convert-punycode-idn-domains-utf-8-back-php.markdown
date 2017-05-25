@@ -4,11 +4,11 @@ title:  "Convert Punycode IDN domains to UTF-8 and back again with PHP"
 redirect_from:
    - /convert-punycode-idn-domains-utf-8-back-php
 date:   2016-06-18 01:35:07 +0100
-categories: best domain registrar
+categories: punycode
 description: So I am sitting here late at night and I registered a few swedish .xyz domains that contain characters åäö. For example you may have the domain for horse in swedish, häst.xyz, this domain is actua...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 So I am sitting here late at night and I registered a few swedish .xyz domains that contain characters åäö. For example you may have the domain for horse in swedish, häst.xyz, this domain is actually written as xn--hst-qla.xyz. Now I wanted to create a  temporary catch-all page for these swedish domains until I can build a site for them. What I did was to get the domain name as a variable which I echo in the title and body of the page using the following server variable:
 

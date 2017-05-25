@@ -4,11 +4,10 @@ title:  "Free Graphics - 3D Jigsaw Puzzle "
 redirect_from:
    - /free-graphics-3d-jigsaw-puzzle
 date:   2013-12-01 23:32:17 +0100
-categories: best domain registrar
 description: Whenever I am in need of some ideas for graphics or I just need some simple graphics for a project I always go to...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Whenever I am in need of some ideas for graphics or I just need some simple graphics for a project I always go to [GraphicRiver](http://graphicriver.net/?ref=Bigideaguy "GraphicRiver"). They feature some really talented artists with good work at reasonable prices.  
   

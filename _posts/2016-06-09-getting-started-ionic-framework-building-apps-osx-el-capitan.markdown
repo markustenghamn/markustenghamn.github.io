@@ -4,11 +4,11 @@ title:  "Getting started with Ionic framework for building apps on OSX El Capita
 redirect_from:
    - /getting-started-ionic-framework-building-apps-osx-el-capitan
 date:   2016-06-09 19:50:47 +0100
-categories: best domain registrar
+categories: ionic
 description: First thing you need to do if you haven't already done so is to download and install Node.js. You will find Node.js via their website here: https://nodejs.org/en/....
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 First thing you need to do if you haven't already done so is to download and install Node.js. You will find Node.js via their website here: <https://nodejs.org/en/>. I picked the recommended option as it is most likely more stable but you are free to try either one. Both will probably work with Ionic framework.  
   

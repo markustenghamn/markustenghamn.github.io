@@ -4,11 +4,10 @@ title:  "Markus Tenghamn bloggar nu på Svenska!"
 redirect_from:
    - /markus-tenghamn-bloggar-nu-pa-svenska
 date:   2012-02-28 14:40:29 +0100
-categories: best domain registrar
 description: Japp, nu är det dags att börja blogga på Svenska också och det kommer nog att vara lite annorlunda från mitt andra blogg (...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Japp, nu är det dags att börja blogga på Svenska också och det kommer nog att vara lite annorlunda från mitt andra blogg ([http://markustenghamn.com](http://markustenghamn.com "Markus Tenghamn")). Jag kommer troligen snacka en hel del om webb programmering och design men det händer nog att jag bloggar om mycket annat ibland. Ni kanske undrar varför jag har valt just denna bild för mitt första inlägg? Jag tycker bilden är rätt så kul för när jag visar designen för hemsidan så är en av dom första sakerna killar brukar fråga är om jag känner tjejen i mitten :). Men nej det gör jag tyvärr inte, det är bara ett stock foto jag har köpt rättigheter till och använt. Detta var ett projekt för Dolce Vita (dolce-vita.se) som finns i Västerås för att skapa en snyggare hemsida men det verkar som det har tappat intresse.  
   

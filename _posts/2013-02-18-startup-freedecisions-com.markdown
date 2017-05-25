@@ -4,11 +4,10 @@ title:  "New Startup - FreeDecisions.com"
 redirect_from:
    - /startup-freedecisions-com
 date:   2013-02-18 20:48:47 +0100
-categories: best domain registrar
 description: Here is my latest startup which is a new company and a collaborative partnership between me and a good associate of mine, an engineer who works in the space industry....
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Here is my latest startup which is a new company and a collaborative partnership between me and a good associate of mine, an engineer who works in the space industry. [FreeDecisions.com](http://freedecisions.com "Free Decisions") is a great new tool which will help you analyze and find the best choice for almost any decision. The site is completely free to use with an ever growing database with existing decisions to use as a base for your own decisions. Find out what really matters to you!  
   

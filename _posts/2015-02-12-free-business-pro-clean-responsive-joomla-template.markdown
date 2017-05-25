@@ -4,11 +4,10 @@ title:  "Free - Business Pro - Clean Responsive Joomla Template"
 redirect_from:
    - /free-business-pro-clean-responsive-joomla-template
 date:   2015-02-12 02:39:34 +0100
-categories: best domain registrar
 description: This month only you will find the Business Pro Joomla template for free over at...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 This month only you will find the [Business Pro Joomla template](http://anve.to/E8hpJ "Business Pro Joomla Template") for free over at [Themeforest](http://anve.to/s96f9 "Themeforest"). All you need to do is to sign up for a free Envato account and download your copy. With many different colors to chose from and lots of unique features this theme will be easy to adapt for any type of website that needs a clean look!  
   

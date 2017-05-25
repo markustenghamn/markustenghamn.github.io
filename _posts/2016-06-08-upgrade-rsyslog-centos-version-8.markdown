@@ -4,11 +4,11 @@ title:  "Upgrade rsyslog on Centos to version 8"
 redirect_from:
    - /upgrade-rsyslog-centos-version-8
 date:   2016-06-08 20:15:41 +0100
-categories: best domain registrar
+categories: upgrade rsyslog
 description: So for some reason you would like to upgrade rsyslog to version 8. For me it was some issues with the logging, I wasn't getting anywhere debugging version 5.8 and almost nothing was writing to /var/lo...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 So for some reason you would like to upgrade rsyslog to version 8. For me it was some issues with the logging, I wasn't getting anywhere debugging version 5.8 and almost nothing was writing to /var/log/messages which is not good. So I decided to figure out how to make the upgrade.  
   

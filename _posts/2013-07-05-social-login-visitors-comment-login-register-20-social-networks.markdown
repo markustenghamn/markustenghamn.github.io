@@ -4,11 +4,10 @@ title:  "Social Login - Allow your visitors to comment, login and register with 
 redirect_from:
    - /social-login-visitors-comment-login-register-20-social-networks
 date:   2013-07-05 00:07:16 +0100
-categories: best domain registrar
 description: Recently I was looking for a nice plugin which would let users login to my site with many different social networks. although this plugin won't work for my original idea, it was perfect right here on...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Recently I was looking for a nice plugin which would let users login to my site with many different social networks. although this plugin won't work for my original idea, it was perfect right here on my blog where anyone can now login via many different social networks and comment. There are many more social networks to add as well, I am only using part of the networks available. [Get it here](http://wordpress.org/plugins/oa-social-login/ "Wordpress Social Login").
 

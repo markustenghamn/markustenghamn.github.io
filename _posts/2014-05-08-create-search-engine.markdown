@@ -4,11 +4,10 @@ title:  "How to create a search engine"
 redirect_from:
    - /create-search-engine
 date:   2014-05-08 09:37:23 +0100
-categories: best domain registrar
 description: (image removed) This is a quick guide on how you can create your own search engine similar...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 [(image removed)](http://markustenghamn.com/?iproduct=5247)  
   

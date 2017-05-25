@@ -4,11 +4,10 @@ title:  "Valuable Image Effects Pack"
 redirect_from:
    - /valuable-image-effects-pack
 date:   2012-01-04 20:25:08 +0100
-categories: best domain registrar
 description: I decided to write about this pack of jquery image effects I recently got from codecanyon. You can get the Image Effects Pack...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I decided to write about this pack of jquery image effects I recently got from [codecanyon](http://codecanyon.net/?ref=bigideaguy).  
   

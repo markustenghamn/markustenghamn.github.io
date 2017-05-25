@@ -4,11 +4,10 @@ title:  "Why Adblock Plus Could Cause You To Lose Customers"
 redirect_from:
    - /adblock-lose-customers
 date:   2013-03-13 20:56:03 +0100
-categories: best domain registrar
 description: I was recently writing a review on Swedish web hosts over on my Swedish version of this blog and realized that Adblock Plus was preventing me from making a purchase at...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I was recently writing a review on Swedish web hosts over on my Swedish version of this blog and realized that Adblock Plus was preventing me from making a purchase at [Surftown](http://surftown.se/ "Surftown"), one of the swedish hosts. The problem occured because Surftown uses a site called adform.net to track events on their site it seems and since this ad network, or whatever adform.net is, also displays ads it is then blocked by Adblock Plus. This resulted in a error on their checkout page which made it seem like nothing happened when I clicked the order button. The page was just blank and nothing changed, no error, nothing.  
   

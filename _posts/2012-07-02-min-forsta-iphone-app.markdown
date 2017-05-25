@@ -4,11 +4,10 @@ title:  "Min första iPhone app!"
 redirect_from:
    - /min-forsta-iphone-app
 date:   2012-07-02 02:11:06 +0100
-categories: best domain registrar
 description: För ungefär två veckor sen så blev min första iPhone app accepterad i app store. Det har vart riktigt kul att utveckla appen och lära mig xCode och Objective-C....
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 För ungefär två veckor sen så blev min första iPhone app accepterad i app store. Det har vart riktigt kul att utveckla appen och lära mig xCode och Objective-C.  
   

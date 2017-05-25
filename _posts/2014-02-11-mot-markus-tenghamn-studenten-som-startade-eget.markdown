@@ -4,11 +4,10 @@ title:  "Möt Markus Tenghamn – studenten som startade eget"
 redirect_from:
    - /mot-markus-tenghamn-studenten-som-startade-eget
 date:   2014-02-11 12:31:30 +0100
-categories: best domain registrar
 description: Östsvenska Handelskammaren skrev nyligen en bok om projektet Kompetens för Tillväxt där jag var med och deltog. Ett trettiotal av alla projekt valdes och 2 av de projekten utfördes av mig. Jag fi...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Östsvenska Handelskammaren skrev nyligen en bok om projektet Kompetens för Tillväxt där jag var med och deltog. Ett trettiotal av alla projekt valdes och 2 av de projekten utfördes av mig. Jag fick även en egen sida under rubriken "Möt Markus Tengham – studenten som startade eget" nedan följer texten för den sidan.
 

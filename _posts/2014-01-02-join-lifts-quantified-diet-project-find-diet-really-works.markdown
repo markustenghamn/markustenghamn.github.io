@@ -4,11 +4,10 @@ title:  "Join Lift's Quantified Diet Project To Find Out Which Diet Really Works
 redirect_from:
    - /join-lifts-quantified-diet-project-find-diet-really-works
 date:   2014-01-02 16:56:34 +0100
-categories: best domain registrar
 description: I mentioned Lift when I wrote about The 10 Most Innovative Startups 2013. I still use Lift today...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I mentioned Lift when I wrote about [The 10 Most Innovative Startups 2013](http://markustenghamn.com/10-innovative-startups-2013 "10 Most Innovative Startups"). I still use Lift today and it is a great motivational app. Now they are starting the ["Quantified Diet Project"](https://lift.do/quantified-diet "Quantified Diet Project") in order to find out which diet really works!  
   

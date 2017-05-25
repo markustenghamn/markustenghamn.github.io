@@ -4,11 +4,10 @@ title:  "Free Wordpress Plugin To Handle Youtube Videos - A $7 Value!"
 redirect_from:
    - /free-wordpress-plugin-handle-youtube-videos-7-value
 date:   2013-12-01 23:33:53 +0100
-categories: best domain registrar
 description: This months freebie over at CodeCanyon is a "jQuery responsive youtube playlist for Wordpress" which will let you display a youtube playlist on your Wordpress site without a lot of...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 This months freebie over at CodeCanyon is a "jQuery responsive youtube playlist for Wordpress" which will let you display a youtube playlist on your Wordpress site without a lot of work.
 

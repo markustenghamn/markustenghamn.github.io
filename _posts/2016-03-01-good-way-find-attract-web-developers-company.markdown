@@ -4,11 +4,11 @@ title:  "A Good Way To Attract Web Developers To Your Company"
 redirect_from:
    - /good-way-find-attract-web-developers-company
 date:   2016-03-01 14:43:50 +0100
-categories: best domain registrar
+categories: web developers
 description: I have seen examples of Google doing something like this when you...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I have seen examples of Google doing something like this when you [search for specific things on their website and a sort of job offer pops up](http://developers.slashdot.org/story/15/08/27/2140221/google-may-try-to-recruit-you-for-a-job-based-on-your-search-queries). This is a much simpler example of this but still something that can come across as pretty cool as web developers stumble across it. I was messing around with things on a swedish website called hitta.se, they provide information on both businesses and private people, a sort of searchable directory. As I was looking around I opened the console and saw the following pop up.  
   

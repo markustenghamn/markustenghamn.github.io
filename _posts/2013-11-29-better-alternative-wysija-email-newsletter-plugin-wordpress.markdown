@@ -4,11 +4,10 @@ title:  "The Better Alternative To Wysija - Email Newsletter Plugin for WordPres
 redirect_from:
    - /better-alternative-wysija-email-newsletter-plugin-wordpress
 date:   2013-11-29 23:38:36 +0100
-categories: best domain registrar
 description: I had been using Wysija to send out newsletters to my subscribers for a while now. However as my list of subscribers grows it is becoming harder and harder to manage and therefore I had to find an alt...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I had been using Wysija to send out newsletters to my subscribers for a while now. However as my list of subscribers grows it is becoming harder and harder to manage and therefore I had to find an alternative to Wysija which was not up to the task.  
   

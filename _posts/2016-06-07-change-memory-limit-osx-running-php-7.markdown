@@ -4,11 +4,11 @@ title:  "Change Memory Limit on OSX running PHP 7"
 redirect_from:
    - /change-memory-limit-osx-running-php-7
 date:   2016-06-07 20:22:17 +0100
-categories: best domain registrar
+categories: memory limit
 description: Every now and then when testing local applications you may run into an error that says something like "Allowed memory size of xxxxx bytes exhausted (tried to allocate xxxx bytes)". Now, sometimes this...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Every now and then when testing local applications you may run into an error that says something like "Allowed memory size of xxxxx bytes exhausted (tried to allocate xxxx bytes)". Now, sometimes this may be caused by a coding issue such as a loop that gets stuck which is way you may not want to set this limit too high. In my case I felt that I needed to raise this limit as I am working with parsing large excel files which require a lot more than the standard 128M of memory.  
   

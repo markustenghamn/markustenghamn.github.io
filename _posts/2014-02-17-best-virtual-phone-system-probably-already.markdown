@@ -4,11 +4,10 @@ title:  "The Best Virtual Phone System! You Probably Already Have It"
 redirect_from:
    - /best-virtual-phone-system-probably-already
 date:   2014-02-17 15:44:50 +0100
-categories: best domain registrar
 description: I have used many virtual phone services like RingCentral or...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I have used many virtual phone services like [RingCentral](http://www.ringcentral.com/ "RingCentral") or [Grasshopper](http://grasshopper.com/ "Grasshopper") in the past and they do the job for a pretty decent price. However I recently switched to something which I found to be much easier, cheaper and better. It was sitting right in front of me, I even knew about it, but when I think of a virtual phone system I don't think of this service.  
   

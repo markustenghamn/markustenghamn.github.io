@@ -4,11 +4,10 @@ title:  "Time to get started with Zend Framework"
 redirect_from:
    - /time-started-zend-framework
 date:   2012-02-18 15:26:43 +0100
-categories: best domain registrar
 description: I have been developing with PHP for a while now and as I am learning more and more about OOP with C# I got interested in more OOP based programming with PHP. I picked up a few books on more advanced P...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I have been developing with PHP for a while now and as I am learning more and more about OOP with C# I got interested in more OOP based programming with PHP. I picked up a few books on more advanced PHP programming which explains how to use classes and the like with PHP and it seems fairly similar to C# in its most basic form at least. While doing more research on  PHP I stumbled across Zend Framework, I had heard about it before and I sort of knew what it was but I had never considered using it. But upon further reading of the documentation and what others had to say it really got me interested. So since I was learning more advanced PHP i figured why not throw in something like Zend Framework as well? I have not gotten very far but I am making and testing out some initial applications but progress is slow since I am also doing OOP C# and Discrete Mathematics at the same time.  
   

@@ -4,11 +4,11 @@ title:  "PHP Flat Visual Chat [Review] [Video]"
 redirect_from:
    - /php-flat-visual-chat-review-video
 date:   2015-03-25 11:24:59 +0100
-categories: best domain registrar
+categories: php flat visual chat
 description: Today I will be reviewing PHP Flat Visual Chat from Co...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Today I will be reviewing [PHP Flat Visual Chat](http://anve.to/hsAgc "PHP Flat Visual Chat") from [CodeCanyon](http://anve.to/OGp75 "CodeCanyon"). This is part of a series of reviews which I will do of some of the most popular support chat scripts and plugins available on [CodeCanyon](http://anve.to/OGp75 "CodeCanyon"). I will be using the standalone PHP script however there is also a Wordpress Plugin available [here](http://anve.to/irvbY "WP PHP Flat Visual Chat"). If interested in my video review please visit this [link](http://anve.to/qJOCe "Review of PHP Flat Visual Chat - YouTube") to head over and watch it on YouTube.  
   

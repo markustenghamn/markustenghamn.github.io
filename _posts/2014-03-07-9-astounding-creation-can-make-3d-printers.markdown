@@ -4,11 +4,10 @@ title:  "9 Astounding Creations You Can Make With 3D Printers"
 redirect_from:
    - /9-astounding-creation-can-make-3d-printers
 date:   2014-03-07 20:40:25 +0100
-categories: best domain registrar
 description: The following is a guest post by Garry Forster, enjoy! The marriage of machines and computers was inevitable. The last three decades sent out clear signals. Today, this amalgamation has resulted in...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 The following is a guest post by Garry Forster, enjoy!  
   

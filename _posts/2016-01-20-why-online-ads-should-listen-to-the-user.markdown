@@ -4,11 +4,11 @@ title:  "Why Online Advertising Should Listen To The User"
 redirect_from:
    - /why-online-ads-should-listen-to-the-user
 date:   2016-01-20 21:24:47 +0100
-categories: best domain registrar
+categories: online advertising
 description: Online advertising is a very one sided market with all emphasis being put on the companies that need a quick way to reach users but almost no thought is put on the user. Of course it is not the compan...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Online advertising is a very one sided market with all emphasis being put on the companies that need a quick way to reach users but almost no thought is put on the user. Of course it is not the companies responsibility in mind, unless they manually put their adverts on websites, it is up to the ad networks. There are many ad networks out there, the biggest being [Google Adwords](https://www.google.com/adwords/). Now the only way for a user to give feedback about an ad is to search through Google's help pages which is nowhere near easy.
 

@@ -4,11 +4,10 @@ title:  "MapView with path between two points for iPhone using Xcode 4.6"
 redirect_from:
    - /mapview-path-points-iphone-xcode-4-6
 date:   2013-06-28 16:13:18 +0100
-categories: best domain registrar
 description: I recently developed an iPhone app for an event in Sweden called SFSFUM which required a map which would show the user directions from their current location to several of the different locations of t...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I recently developed an iPhone app for an event in Sweden called SFSFUM which required a map which would show the user directions from their current location to several of the different locations of the event. Since there was no available tools in xcode to do this I had to create some custom code and help from contributions on github to accomplish the tasks and draw the path.  
   

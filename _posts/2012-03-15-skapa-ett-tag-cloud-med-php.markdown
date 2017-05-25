@@ -4,11 +4,10 @@ title:  "Skapa ett Tag Cloud med PHP"
 redirect_from:
    - /skapa-ett-tag-cloud-med-php
 date:   2012-03-15 00:12:45 +0100
-categories: best domain registrar
 description: Jag har tidigare lagt upp kod för att skapa ett Tag Cloud med PHP på Sourcecodedb.com http://s...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Jag har tidigare lagt upp kod för att skapa ett Tag Cloud med PHP på Sourcecodedb.com  
 [http://sourcecodedb.com/Create-a-tag-cloud-with-php.html](http://sourcecodedb.com/Create-a-tag-cloud-with-php.html "Create a tag cloud with php")  

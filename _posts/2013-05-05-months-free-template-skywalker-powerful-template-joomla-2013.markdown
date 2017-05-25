@@ -4,11 +4,10 @@ title:  "This months free template -  Skywalker - Powerful Template for Joomla! 
 redirect_from:
    - /months-free-template-skywalker-powerful-template-joomla-2013
 date:   2013-05-05 01:34:37 +0100
-categories: best domain registrar
 description: Every month you can get free files from envato, just for being a member. This months free theme is Skywalker, which is a powerful template for joomla as the title says. This template comes packed with...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Every month you can get free files from envato, just for being a member. This months free theme is Skywalker, which is a powerful template for joomla as the title says. This template comes packed with some great benefits.
 

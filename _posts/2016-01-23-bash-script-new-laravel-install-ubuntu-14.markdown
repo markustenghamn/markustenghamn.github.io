@@ -4,11 +4,11 @@ title:  "Bash script for new Laravel install on Ubuntu 14"
 redirect_from:
    - /bash-script-new-laravel-install-ubuntu-14
 date:   2016-01-23 16:35:27 +0100
-categories: best domain registrar
+categories: laravel
 description: The following is a simple script that I have used to set permissions on development builds for Laravel, it usually fixes permission issues and gets me up and running quickly. You can put it into a .sh...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 The following is a simple script that I have used to set permissions on development builds for Laravel, it usually fixes permission issues and gets me up and running quickly. You can put it into a .sh file to run all the commands or simply copy and paste. I also have this running with git as a post-receive hook that will copy the master branch to a testing server.
 

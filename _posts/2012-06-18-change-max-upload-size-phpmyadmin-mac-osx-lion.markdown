@@ -4,11 +4,10 @@ title:  "Change Max Upload Size in PHPMyAdmin on Mac OSX Lion"
 redirect_from:
    - /change-max-upload-size-phpmyadmin-mac-osx-lion
 date:   2012-06-18 00:01:53 +0100
-categories: best domain registrar
 description: I'm constantly installing and reinstalling phpmyadmin on my macs and I keep having to look up how to change the max upload size. It's fairly simple actually, you simply need to edit the following thin...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I'm constantly installing and reinstalling phpmyadmin on my macs and I keep having to look up how to change the max upload size. It's fairly simple actually, you simply need to edit the following things in your php.ini file. My php.ini file was located in my /etc/ folder.  
   

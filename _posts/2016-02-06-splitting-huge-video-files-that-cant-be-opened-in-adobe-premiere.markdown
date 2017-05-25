@@ -4,11 +4,11 @@ title:  "Splitting huge video files that can't be opened in Adobe Premiere"
 redirect_from:
    - /splitting-huge-video-files-that-cant-be-opened-in-adobe-premiere
 date:   2016-02-06 15:02:00 +0100
-categories: best domain registrar
+categories: splitting huge video files
 description: So last night was game night and I was recording the newly released XCOM 2 with BigSwedish for several hours using...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 So last night was game night and I was recording the newly released [XCOM 2](https://xcom.com/) with [BigSwedish](http://bigswedish.com/) for several hours using [OBS](https://obsproject.com/). OBS allows me to record on multiple audio channels so that I have myself speaking on one channel, Skype and whoever I am talking to on one channel and the actual game audio on a third channel. This makes it easier to edit in Premiere but it also makes for some very big files. This morning I wake up to begin editing my file and notice that its 40GB and importing it to Premiere either seems to freeze my computer completely or simply crash the program. Thus I realized that I needed to cut this file into smaller pieces but I had no idea what program to use. Splitting the file would not be as easy as I had hoped.  
   

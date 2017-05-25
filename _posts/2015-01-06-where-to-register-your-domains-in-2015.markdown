@@ -4,11 +4,11 @@ title:  "Where to register your domains in 2015"
 redirect_from:
    - /where-to-register-your-domains-in-2015
 date:   2015-01-06 18:00:11 +0100
-categories: best domain registrar
+categories: register your domains in 2015
 description: Last year I reviewed the best and worst...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Last year I reviewed the [best and worst domain registrars of 2014](http://markustenghamn.com/best-and-worst-domain-registrars-my-review-2014 "Best and Worst Domain Registrars – My Review 2014") and as an avid web developer I do my very best to keep up to date with the best places to register domains for both me and my clients. I have looked at many of the most popular registrars like NameCheap, Godaddy, Name.com and Moniker and as of today I still stand by my choice that I made a little over 2 months ago and that is to go with [NameSilo](http://anve.to/xyR8d "NameSilo"). This is where you should register your domains in 2015!  
   

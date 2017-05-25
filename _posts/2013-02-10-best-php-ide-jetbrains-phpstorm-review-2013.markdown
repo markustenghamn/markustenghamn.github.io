@@ -4,11 +4,10 @@ title:  "The Best PHP IDE - JetBrains PhpStorm - My Review 2013"
 redirect_from:
    - /best-php-ide-jetbrains-phpstorm-review-2013
 date:   2013-02-10 03:57:06 +0100
-categories: best domain registrar
 description: I have used many IDEs and non IDEs over the years while working with PHP, everything from simply writing things in notepad to a little more advanced editors such as...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I have used many IDEs and non IDEs over the years while working with PHP, everything from simply writing things in notepad to a little more advanced editors such as [notepad++](http://notepad-plus-plus.org/ "Notepad++") to full IDEs like [Eclipse](http://www.eclipse.org/ "Eclipse") and [Zend Studio](http://www.zend.com/en/products/studio/ "Zend Studio"). Each one has its own pros and cons and I would be fine working in all of the options above however I prefer using the tool which makes my work the most efficient. One of the runner ups which I used for a while was [Coda 2](http://panic.com/coda/ "Coda 2"). Coda 2 is really nice and at first I loved using it, however after using it for a few weeks I started noticing things that felt unfinished, there was no way to search for something in all the project files and navigating large projects like magento was slow and complicated. Coda 2 also crashed on me a few times which caused me to look for something better that really fit me.  
   

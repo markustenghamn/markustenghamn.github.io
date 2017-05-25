@@ -4,11 +4,11 @@ title:  "Fixing auto increment on MySQL tables when foreign key constrainst fail
 redirect_from:
    - /fixing-auto-increment-on-mysql-tables-when-foreign-key-constrainst-fail
 date:   2016-02-09 07:54:40 +0100
-categories: best domain registrar
+categories: auto increment
 description: Please note that you should NOT do this if you don't know what is wrong. Foreign keys are there for a reason and bypassing them could cause you to lose data and break applications....
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Please note that you should **NOT** do this if you don't know what is wrong. Foreign keys are there for a reason and bypassing them could cause you to lose data and break applications.  
   

@@ -4,11 +4,11 @@ title:  "How To Use A CDN To Improve Your Websites Performance"
 redirect_from:
    - /use-cdn-improve-websites-performance
 date:   2014-12-12 01:27:35 +0100
-categories: best domain registrar
+categories: cdn improve performance
 description: Every day we are getting more and more connected allowing users from all over the world to visit your website. However your website is located on a server which is most likely close to your location....
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Every day we are getting more and more connected allowing users from all over the world to visit your website. However your website is located on a server which is most likely close to your location. This means that while your site loads fast for you it may be a different story for users in other parts of the world. With a CDN you can solve the speed issue by basically having your website in many places at the same time. A CDN will also solve a bunch of other potential problems that your site may be facing such as preventing crashes, improving the user experience and improve SEO for your website!
 

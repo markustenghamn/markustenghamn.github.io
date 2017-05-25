@@ -4,11 +4,10 @@ title:  "[Freebie] 15 Valentine’s Day Patterns by Freepik"
 redirect_from:
    - /15-valentines-day-patterns-freepik
 date:   2015-02-12 04:25:16 +0100
-categories: best domain registrar
 description: \[caption id="attachment\_5802" align="aligncenter" width="618"\](image removed) 15 Valentine’s Day Patterns by Fr...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 \[caption id="attachment\_5802" align="aligncenter" width="618"\][(image removed)](http://markustenghamn.com/wp-content/uploads/2015/02/valentines-day.jpg) 15 Valentine’s Day Patterns by Freepik\[/caption\]  
   

@@ -4,11 +4,10 @@ title:  "Some interesting tutorials written by me"
 redirect_from:
    - /some-interesting-tutorials-written-by-me
 date:   2011-03-27 12:55:56 +0100
-categories: best domain registrar
 description: As owner of Markspixel.com I have written some interesting tutorials over time that some people might find useful, please see the list below and follow the link if you would like to read the tutorial....
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 As owner of Markspixel.com I have written some interesting tutorials over time that some people might find useful, please see the list below and follow the link if you would like to read the tutorial.  
   

@@ -4,11 +4,10 @@ title:  "Zoomable image view for iPhone in Xcode 4.6"
 redirect_from:
    - /zoomable-image-view-iphone-xcode-4-6
 date:   2013-06-26 23:24:49 +0100
-categories: best domain registrar
 description: When developing an iPhone app I was recently presented with the challenge of displaying an image and allow for it to be zoomed in and out on while also allowing for a scroll function, up, down and sid...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 When developing an iPhone app I was recently presented with the challenge of displaying an image and allow for it to be zoomed in and out on while also allowing for a scroll function, up, down and side to side. To accomplish this I used xcode and created my xib with an UIImageView which I placed inside of a UIScrollView like so.  
   

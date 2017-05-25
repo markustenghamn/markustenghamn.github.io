@@ -4,11 +4,10 @@ title:  "Hur man använder Wordpress - Intro"
 redirect_from:
    - /hur-man-anvander-wordpress-intro
 date:   2012-03-17 22:44:40 +0100
-categories: best domain registrar
 description: Jag har skrivit en guide på hur man använder Wordpress efter att jag har fått flera frågor på flera olika delar av Wordpress och hur det fungerar. Om du vill ladda ner Wordpress så finns det...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Jag har skrivit en guide på hur man använder Wordpress efter att jag har fått flera frågor på flera olika delar av Wordpress och hur det fungerar. Om du vill ladda ner Wordpress så finns det [här](http://sv.wordpress.org/wordpress-3.3.1-sv_SE.zip "Wordrpess"). Om du inte vet hur man installerar wordpress så finns det flera webbhotell som gör det gratis. Någon som är bra på datorer kan troligen göra det väldigt billigt.  
   

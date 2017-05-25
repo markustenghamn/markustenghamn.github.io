@@ -4,11 +4,10 @@ title:  "Learning Cinema 4D"
 redirect_from:
    - /learning-cinema-4d
 date:   2012-03-02 22:44:12 +0100
-categories: best domain registrar
 description: I have always been a bit interested in 3d modeling and designing and decided to give Cinema 4D a shot after seeing what Andreas Wannerstedt created with it and some help with Adobe After Effects. I ha...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I have always been a bit interested in 3d modeling and designing and decided to give Cinema 4D a shot after seeing what Andreas Wannerstedt created with it and some help with Adobe After Effects. I have no plans to make anything as advanced as what he did but playing around with the physics and such is a lot of fun and very interesting. Here is the link to Andreas's video on Vimeo called Genesis: [http://vimeo.com/33294114](http://vimeo.com/33294114 "Genesis")  
   

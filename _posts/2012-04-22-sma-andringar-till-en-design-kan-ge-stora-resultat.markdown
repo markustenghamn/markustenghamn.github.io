@@ -4,11 +4,10 @@ title:  "Små ändringar till en design kan ge stora resultat!"
 redirect_from:
    - /sma-andringar-till-en-design-kan-ge-stora-resultat
 date:   2012-04-22 04:19:58 +0100
-categories: best domain registrar
 description: Det har jag verkligen lärt mig när jag gjorde senaste ändringen till Billigaapan.se Allt jag ändrade var bakgrunden oc...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Det har jag verkligen lärt mig när jag gjorde senaste ändringen till [Billigaapan.se](http://Billigaapan.se "Billigaapan.se")  
   

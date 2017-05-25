@@ -4,11 +4,10 @@ title:  "Hur man använder Wordpress - Widgets"
 redirect_from:
    - /hur-man-anvander-wordpress-widgets
 date:   2012-03-17 23:00:17 +0100
-categories: best domain registrar
 description: Del 2 - Hur man använder Wordpress - Inlägg och sidor Temat du använder måste ha support för widgets för att...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 ### [Del 2 - Hur man använder Wordpress - Inlägg och sidor](http://markustenghamn.se/hur-man-anvander-wordpress-widgets/)
 

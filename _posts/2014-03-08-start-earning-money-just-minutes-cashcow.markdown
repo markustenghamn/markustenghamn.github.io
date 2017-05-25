@@ -4,11 +4,10 @@ title:  "Start Earning Money In Just Minutes With CashCow"
 redirect_from:
    - /start-earning-money-just-minutes-cashcow
 date:   2014-03-08 21:06:27 +0100
-categories: best domain registrar
 description: CashCow is a...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 [CashCow](http://codecanyon.net/item/cashcow-affiliate-based-money-making-system/4723003?ref=Bigideaguy "CashCow") is a [Wordpress](http://wordpress.org/ "Wordpress") plugin from codecanyon which makes it super easy to get going as an envato affiliate. All you will need to do is to get a domain, setup your [Wordpress](http://wordpress.org/ "Wordpress") site and configure the plugin. I used an old domain that I had laying around and had this all done in less than 10 minutes and you can too!  
   

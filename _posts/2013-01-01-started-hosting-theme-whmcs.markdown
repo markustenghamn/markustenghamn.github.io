@@ -4,11 +4,10 @@ title:  "Getting Started With The Just Hosting Theme For WHMCS"
 redirect_from:
    - /started-hosting-theme-whmcs
 date:   2013-01-01 01:05:44 +0100
-categories: best domain registrar
 description: I recently purchased the Just Hosting theme for whmcs which is a great looking theme that I want to use for m new site Zunem.com. Here I will go through the initial steps needed to set everything up s...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I recently purchased the Just Hosting theme for whmcs which is a great looking theme that I want to use for m new site Zunem.com. Here I will go through the initial steps needed to set everything up so that you can start selling web hosting!  
   

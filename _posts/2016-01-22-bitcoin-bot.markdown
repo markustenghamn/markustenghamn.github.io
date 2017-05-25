@@ -4,11 +4,11 @@ title:  "Bitcoin bot"
 redirect_from:
    - /bitcoin-bot
 date:   2016-01-22 00:26:13 +0100
-categories: best domain registrar
+categories: bitcoin bot
 description: So tonight I took a little break to work on an idea that I have had for a while. Initially I wanted to look at social media, analyze the text to try to put a positive or negative number which would ho...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 So tonight I took a little break to work on an idea that I have had for a while. Initially I wanted to look at social media, analyze the text to try to put a positive or negative number which would hopefully give an indication on where the stock price would go. Now tracking stocks can be complicated due to delays in APIs and things like that and you would also need to decide on which stocks to pick. I guess this turned me off a bit as I wanted to make something quick and simple that would give me results. That gave me the idea of trying something different like bitcoin (also litecoin and dogecoin because why not?). What if I could use my bot to predict when the price of bitcoin would go up or down, a simple bitcoin bot? I could very easily get several indicators for my bot and then tell it when to buy or sell. Tonight I got started on the bot which currently gets a live feed of every single tweet metioning bitcoin as a live feed, check it out :D  
   

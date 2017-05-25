@@ -4,11 +4,11 @@ title:  "Being an Open Networker on Linkedin makes you look bad"
 redirect_from:
    - /open-networker-linkedin-makes-look-bad
 date:   2016-03-19 16:46:05 +0100
-categories: best domain registrar
+categories: open networker
 description: Today I want to share a bit of a personal experience regarding Linkedin and open networking. There are reasons for doing this and there are reasons why you really should stay away from it, for most of...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Today I want to share a bit of a personal experience regarding Linkedin and open networking. There are reasons for doing this and there are reasons why you really should stay away from it, for most of us there will be more cons than pros of being an open networker. Unless you strictly use Linkedin to sell or promote something and you don't network with people who you meet in real life then you probably don't want to be part of open networking and I will tell you why.  
   

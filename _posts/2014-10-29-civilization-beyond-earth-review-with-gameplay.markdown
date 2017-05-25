@@ -4,11 +4,10 @@ title:  "Civilization: Beyond Earth Review With Gameplay!"
 redirect_from:
    - /civilization-beyond-earth-review-with-gameplay
 date:   2014-10-29 12:48:18 +0100
-categories: best domain registrar
 description: Civilization: Beyond Earth is finally out! I have been a Civilization fan ever since playing the first versions of the game as a child and this new release brought some of that excitement back again....
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Civilization: Beyond Earth is finally out! I have been a Civilization fan ever since playing the first versions of the game as a child and this new release brought some of that excitement back again. Here you will see some gameplay from a multiplayer game against [BigSwedish](https://www.youtube.com/user/hugeswedish "BigSwdish on Youtube"), you will find the rest of the review below the video, hope you enjoy!  
   

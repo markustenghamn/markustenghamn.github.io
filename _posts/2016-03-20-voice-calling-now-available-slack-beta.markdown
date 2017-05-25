@@ -4,11 +4,11 @@ title:  "Voice calling is now available in Slack (beta)"
 redirect_from:
    - /voice-calling-now-available-slack-beta
 date:   2016-03-20 14:25:33 +0100
-categories: best domain registrar
+categories: voice calling
 description: If you didn't already know, Slack is this awesome piece of software which lets you message, share files with and now call other members of your team an...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 If you didn't already know, [Slack](https://slack.com/) is this awesome piece of software which lets you message, share files with and now call other members of your team and you can use it for free if you are unsure about it's benefits. After [Slack aquired Screenhero](https://slack.com/screenhero) they began integrating Screenhero's features into slack. Voice calling is the first of those features and hopefully we will see video and screensharing services coming to Slack in the near future. Voice calling is available in DM conversations for free, paid teams can use the calling feature in channels. So let's take a look at how it works.  
   

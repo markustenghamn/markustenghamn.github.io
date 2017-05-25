@@ -4,11 +4,10 @@ title:  "This Months Freebie - Photomin - Responsive HTML Template"
 redirect_from:
    - /months-freebie-photomin-responsive-html-template
 date:   2013-06-03 13:22:09 +0100
-categories: best domain registrar
 description: Every month ThemeForest gives away a free theme from their website and you can download it by simply registering for an account, which is also free....
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Every month ThemeForest gives away a free theme from their website and you can download it by simply registering for an account, which is also free. [Get the theme by clicking here!](http://themeforest.net/item/photomin-responsive-html-template/2430382?WT.ac=free_file&WT.seg_1=free_file&WT.z_author=ZERGE&ref=bigideaguy "Photomin - Responsive HTML Template")  
   

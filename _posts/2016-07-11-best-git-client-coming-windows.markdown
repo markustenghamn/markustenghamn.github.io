@@ -4,11 +4,11 @@ title:  "The Best Git Client Is Coming To Windows!"
 redirect_from:
    - /best-git-client-coming-windows
 date:   2016-07-11 17:44:40 +0100
-categories: best domain registrar
+categories: git
 description: I was recently invited to test out the Tower for Windows beta and it is now public and available to everyone, head over to the sign up page to tr...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I was recently invited to test out the Tower for Windows beta and it is now public and available to everyone, head over to the [sign up page](https://www.git-tower.com/p/windows-beta) to try it for yourself right now!  
   

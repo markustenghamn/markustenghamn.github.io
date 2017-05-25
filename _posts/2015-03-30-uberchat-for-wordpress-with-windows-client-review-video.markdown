@@ -4,11 +4,11 @@ title:  "UberChat for Wordpress with Windows Client [Review] [Video]"
 redirect_from:
    - /uberchat-for-wordpress-with-windows-client-review-video
 date:   2015-03-30 18:25:00 +0100
-categories: best domain registrar
+categories: uberchat
 description: Today I will be reviewing UberChat for Wordp...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Today I will be reviewing [UberChat for Wordpress with Windows Client](http://codecanyon.net/item/uber-chat-ultimate-live-chat-with-windows-client/9963702?ref=Bigideaguy "UberChat for Wordpress") which is a really nice live chat support plugin. You can find the plugin on [CodeCanyon](http://codecanyon.net/?ref=Bigideaguy "CodeCanyon") by following [this](http://codecanyon.net/item/uber-chat-the-ultimate-live-chat-for-wordpress/10692679?ref=Bigideaguy "UberChat for Wordpress") link.  
   

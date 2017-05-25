@@ -4,11 +4,10 @@ title:  "9 Concept Websites by Markspixel for Inspiration"
 redirect_from:
    - /9-concept-websites-by-markspixel-for-inspiration
 date:   2011-04-22 17:43:35 +0100
-categories: best domain registrar
 description: Here are 9 concept websites created by Markspixel.com to give you some ideas and inspiration for your own web design projects....
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 Here are 9 concept websites created by Markspixel.com to give you some ideas and inspiration for your own web design projects.  
   

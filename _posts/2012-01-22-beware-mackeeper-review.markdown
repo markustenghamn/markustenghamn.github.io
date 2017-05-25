@@ -4,11 +4,10 @@ title:  "Beware of MacKeeper - My Review"
 redirect_from:
    - /beware-mackeeper-review
 date:   2012-01-22 05:08:42 +0100
-categories: best domain registrar
 description: I downloaded MacKeeper to give it a try, to see if it was as useful as they claimed it to be. I ran a system scan and found some issues, most seemed to be uncleared caches for programs and it seemed f...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I downloaded MacKeeper to give it a try, to see if it was as useful as they claimed it to be. I ran a system scan and found some issues, most seemed to be uncleared caches for programs and it seemed fine to let MacKeeper get rid of the almost 1 GB I had stored up over time. Right after that is when the problems started. All my fonts, about 500 or so, were gone and all my bookmarks, saved passwords and sessions were also missing. This got me pretty mad but I contacted support and asked them nicely if they could help me with the issue. They told me to restart my computer and that that would fix the issues. I didn't see how it would help but I did and nothing changed. I got back with the same support guy and he would not respond now when I asked for more suggestions, a few other support guys seemed to join the session and finally someone gave me a 10 step guide on how I should duplicate the problem and record it with screenshots as well. They also needed a bunch of my log files and system info which I did not feel like sending this company. I checked the log files myself but they didn't tell me much more than that my cache had been cleared for a bunch of programs.  
   

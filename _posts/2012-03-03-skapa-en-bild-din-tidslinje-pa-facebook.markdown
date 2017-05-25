@@ -4,11 +4,10 @@ title:  "Skapa en bild för din Tidslinje på Facebook"
 redirect_from:
    - /skapa-en-bild-din-tidslinje-pa-facebook
 date:   2012-03-03 02:04:58 +0100
-categories: best domain registrar
 description: Ladda ner PSD fil för Tidslinje Du behöver inte göra mycket för att lägga upp en bild på din Facebook Tidslin...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 [Ladda ner PSD fil för Tidslinje](http://markustenghamn.com/wp-content/uploads/2012/03/fbtut.psd_.zip)  
   

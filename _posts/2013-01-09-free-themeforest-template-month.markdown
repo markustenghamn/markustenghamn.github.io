@@ -4,11 +4,10 @@ title:  "Free Themeforest Template - This Month Only"
 redirect_from:
    - /free-themeforest-template-month
 date:   2013-01-09 23:33:30 +0100
-categories: best domain registrar
 description: I stumbled across this excellent theme by Orange Idea which is currently free for registered users on ThemeForest...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I stumbled across this excellent theme by Orange Idea which is currently free for registered users on [ThemeForest](http://themeforest.net/?ref=bigideaguy "ThemeForest"). Click the link below to see the full preview at [ThemeForest](http://themeforest.net/?ref=bigideaguy "ThemeForest").  
   

@@ -4,11 +4,11 @@ title:  "How To Find Twitter Followers Who Don't Follow Back With PHP"
 redirect_from:
    - /find-twitter-followers-dont-follow-back-php
 date:   2014-12-24 07:09:46 +0100
-categories: best domain registrar
+categories: twitter unfollow
 description: I was working on Anveto and decided to implement a feature which will display all users who you follow but who don't follow you back on t...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I was working on [Anveto](http://anveto.com "Anveto") and decided to implement a feature which will display all users who you follow but who don't follow you back on twitter. This can be useful if you want to know which of your twitter followers who are not returning the favor and following you or who are simply not interested in you. If you don't know how to program you can sign up for this service over at [http://anveto.com](http://anveto.com "Anveto.com").  
   

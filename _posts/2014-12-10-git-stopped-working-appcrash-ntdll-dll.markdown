@@ -4,11 +4,11 @@ title:  "Git Has Stopped Working [APPCRASH, ntdll.dll]"
 redirect_from:
    - /git-stopped-working-appcrash-ntdll-dll
 date:   2014-12-10 22:45:11 +0100
-categories: best domain registrar
+categories: appcrash
 description: I am leaving this mostly as a not for myself and in the hope that it may help someone. If you have recently installed or updated Airfoil then this may be the cause of your issue as described...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 I am leaving this mostly as a not for myself and in the hope that it may help someone.  
   

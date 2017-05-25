@@ -4,11 +4,11 @@ title:  "Time to change the website a bit"
 redirect_from:
    - /time-to-change-the-website-a-bit
 date:   2016-01-16 20:12:37 +0100
-categories: best domain registrar
+categories: markus tenghamn
 description: About 6 months ago I accepted a great job at Key Solutions here in Västerås, Sweden where I live which has kept me pretty busy lately. I don't have time to write as much as I did before and and the...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 About 6 months ago I accepted a great job at Key Solutions here in Västerås, Sweden where I live which has kept me pretty busy lately. I don't have time to write as much as I did before and and the time has also given me time to think about what I really want to publish here. The blog will be more personal from now on and less promotional. I want to share random thoughts and ideas that I have during the day which might result in some shorter posts. I also want to share my knowledge and solutions and perhaps contribute a bit to open source libraries when I get the chance. As you may have noticed my blog has a much cleaner and simpler look which I love, it looked messy in the past. Anyways to get started with the new blog let's take a look at some of my interesting projects which are free to use and open sourced.  
   

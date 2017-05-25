@@ -4,11 +4,10 @@ title:  "Entreprenöriell MDH-student i topp i stipendiekonkurrens"
 redirect_from:
    - /entreprenoriell-mdh-student-topp-stipendiekonkurrens
 date:   2013-09-03 17:07:08 +0100
-categories: best domain registrar
 description: Markus Tenghamn studerar andra året på Datavetenskapliga programmet. Under sin studietid har han startat fyra företag och är nu i färd med sitt femte. Han har även tagit fram iPhone-...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 > Markus Tenghamn studerar andra året på Datavetenskapliga programmet. Under sin studietid har han startat fyra företag och är nu i färd med sitt femte. Han har även tagit fram iPhone-appen för MDH:s schemasystem.  
 >   

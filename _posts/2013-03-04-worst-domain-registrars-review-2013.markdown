@@ -4,11 +4,10 @@ title:  "Best And Worst Domain Registrars - My Review 2013"
 redirect_from:
    - /worst-domain-registrars-review-2013
 date:   2013-03-04 14:43:49 +0100
-categories: best domain registrar
 description: Click here to see my review for 2014! Please n...
 ---
 
-**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post so it may be hard to read but I have left it here as a reference.**
+**This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
 
 **[Click here](http://markustenghamn.com/best-and-worst-domain-registrars-my-review-2014 "Best and Worst Domain Registrars 2014")to see my review for 2014!**  
   
