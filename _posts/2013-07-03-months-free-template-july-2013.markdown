@@ -32,4 +32,4 @@ As usual, every month ThemeForest gives away a free template from their site. Th
 
 ### Color Styles
 
- (image removed) (image removed) (image removed) (image removed) (image removed) 
+ (image removed) (image removed) (image removed) (image removed) (image removed)

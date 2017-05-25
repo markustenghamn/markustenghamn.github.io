@@ -16,8 +16,7 @@ As a computer science student I have learned of many places where I can find sof
 
  If you want to get into 3D modelling as a student then Autodesk is your place to go, they offer software like their 3DS MAX for free which would otherwise cost you over $3000 if you were to buy it. [(image removed)](https://education.github.com/pack "Github Student Pack")### Github Student Pack ([https://education.github.com/pack](https://education.github.com/pack "Github Student Pack"))
 
- The Github Student Pack is a combination of freebies and discounts from Github and many other companies. Free alternatives
------------------
+ The Github Student Pack is a combination of freebies and discounts from Github and many other companies. ## Free alternatives
 
  Sometimes you may be in need of expensive software which you are unable to afford, however most of the time there will be free alternatives to this software which is just as good. Here is a list of some alternatives which I have used over the years. ### OpenOffice ([http://www.openoffice.org/](http://www.openoffice.org/ "Open Office"))
 
@@ -25,7 +24,7 @@ As a computer science student I have learned of many places where I can find sof
 
  An alternative to Photoshop. ### Blender ([http://www.blender.org/](http://www.blender.org/ "Blender"))
 
- A great alternative to software like 3DS Max and Cinema 4D. I actually use this for some of my own projects that I am working on right now. The Blender Foundation put together a pretty awesome video to show what Blender is capable of producing. Watch it below. <iframe allowfullscreen="allowfullscreen" frameborder="0" height="480" src="//www.youtube.com/embed/Vpg9yizPP_g" width="853"></iframe>### Inkscape ([https://inkscape.org/en/](https://inkscape.org/en/ "Inkscape"))
+ A great alternative to software like 3DS Max and Cinema 4D. I actually use this for some of my own projects that I am working on right now. The Blender Foundation put together a pretty awesome video to show what Blender is capable of producing. Watch it below. ### Inkscape ([https://inkscape.org/en/](https://inkscape.org/en/ "Inkscape"))
 
  Good alternative to Adobe Illustrator or other vector based editors. ### Audacity ([http://audacity.sourceforge.net/](http://audacity.sourceforge.net/ "Audacity"))
 

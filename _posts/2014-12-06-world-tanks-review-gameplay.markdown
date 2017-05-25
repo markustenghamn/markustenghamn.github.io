@@ -18,7 +18,7 @@ I have been playing World of Tanks for about 2 years now and it is a really fun 
 
  The game is free but does come with small transactions to make the game easier. Personally I have probably spent more money than I should on the game but it has been fun and I don't regret it. I currently have about 50 pretty tanks to look at in my garage which is nice. I also have friends who haven't spent any money at all and although it takes a bit longer they have still managed to get the good tanks and have no problem competing against users who pay money. There is also something commonly referred to as "gold ammo" which is ammunition which you can buy with gold (which you purchase with real money) or with a large amount of silver (which you earn by playing or buy with gold). This ammunition will make it easier to penetrate other tanks armor but most of the time it is not worth buying as skill usually wins the battle. If you use gold ammunition you may expect to be called out by other players for using it, this can also happen if you are a skilled players and simply make good shots. If you like the game and want to support the development I would suggest simply getting the premium account as it does have the most value giving you extra experience and silver in every match. If you want to get a head start you can get a premium tank but you will probably not be very good with it as you would have missed the learning experience and you will still need to "level" your other tanks in order to research tanks in the higher tiers. ### Addons
 
-There are two addons that I like to use and they are [XVM](http://www.modxvm.com/en/ "XVM") and <span class="bg"><span class="left"><span class="right">[MeltyMap'sMathMod](http://www.curse.com/wot-mods/worldoftanks/meltymapsmathmod "MeltyMap'sMathMod"). </span></span></span>
+There are two addons that I like to use and they are [XVM](http://www.modxvm.com/en/ "XVM") and [MeltyMap'sMathMod](http://www.curse.com/wot-mods/worldoftanks/meltymapsmathmod "MeltyMap'sMathMod").
 
 [(image removed)](http://markustenghamn.com/wp-content/uploads/2014/12/xvm_loading_and_playerspanel.jpg)
 
@@ -26,7 +26,7 @@ XVM is a pretty nice addon which will show you thinks like how many battles user
 
 [(image removed)](http://markustenghamn.com/wp-content/uploads/2014/12/0685b1de7b8022d7601532d05c059a50.jpg)
 
-<span class="bg"><span class="left"><span class="right">MeltyMap'sMathMod is the second addon that I would recommend. It adds nice features to your interface and will show you where you are the most likely to penetrate with your shot, or where the opponents tanks armor is the weakest.</span></span></span>
+MeltyMap'sMathMod is the second addon that I would recommend. It adds nice features to your interface and will show you where you are the most likely to penetrate with your shot, or where the opponents tanks armor is the weakest.
 
 ### Problems
 

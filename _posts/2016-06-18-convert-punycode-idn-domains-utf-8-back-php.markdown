@@ -24,4 +24,4 @@ So I am sitting here late at night and I registered a few swedish .xyz domains t
 </center>
 </body>
 </html>
-``` That takes care of that. Now the opposite function of [`idn_to_utf8`()](http://php.net/manual/en/function.idn-to-utf8.php) is the [`idn_to_ascii`()](http://php.net/manual/en/function.idn-to-ascii.php) function. This will take the åäö characters and convert them to the punycode. I hope some of you find this useful.</body></html>
+``` That takes care of that. Now the opposite function of [`idn_to_utf8`()](http://php.net/manual/en/function.idn-to-utf8.php) is the [`idn_to_ascii`()](http://php.net/manual/en/function.idn-to-ascii.php) function. This will take the åäö characters and convert them to the punycode. I hope some of you find this useful.

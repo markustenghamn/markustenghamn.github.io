@@ -10,48 +10,35 @@ description: Here is this months free wordpress theme from themeforest. It is av
 
 Here is this months free wordpress theme from themeforest. It is available for registered members to download at no cost at all! This offer is valid until the end of september! [Click here](http://themeforest.net/item/vintage-immersed-multipurpose-wordpress-theme/2866563?WT.ac=free_file&WT.seg_1=free_file&WT.z_author=designthemes&ref=bigideaguy "Vintage Immersed - Multipurpose WordPress Theme") to get your theme now!
 
-Vintage Immersed - Multipurpose WordPress Theme
-===============================================
+# Vintage Immersed - Multipurpose WordPress Theme
 
 ### Vintage WordPress theme – Unique in design, rich in features and easy to use as you see it. Multi Purpose and responsive as we said, it is designed to display creative portfolio, photo gallery, modern business blog etc.,
 
 ##### Responsive Design, Multi Purpose Layout, Premium Quality, Semantic Markup, Detailed help Document, How to Videos, Top Notch Forum Support, Regular Theme Updates are the key reasons to purchase this theme. Localization Supported (We prepared .pot file & .mo files for Roman, French, Russian, German, you just need to translate it to other language .mo files)
 
-Easy to use Admin Panel
------------------------
+## Easy to use Admin Panel
 
- [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/buddha-panel.jpg)Vintage Skins
--------------
+ [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/buddha-panel.jpg)## Vintage Skins
 
- [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/color-schemes.jpg)3 Different Home page Layouts
------------------------------
+ [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/color-schemes.jpg)## 3 Different Home page Layouts
 
- [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/hp-layouts.jpg)3 Home page Sliders easily Manageable from Back-end
----------------------------------------------------
+ [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/hp-layouts.jpg)## 3 Home page Sliders easily Manageable from Back-end
 
- [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/slider-options.jpg)Effective Home page Settings
-----------------------------
+ [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/slider-options.jpg)## Effective Home page Settings
 
- [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/hp-settings.jpg)Many Useful Shortcodes
-----------------------
+ [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/hp-settings.jpg)## Many Useful Shortcodes
 
- [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/shortcodes.jpg)Easy to Switch, Stylish Background Patterns
--------------------------------------------
+ [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/shortcodes.jpg)## Easy to Switch, Stylish Background Patterns
 
- [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/patterns.jpg)Clean and Effective Footer Management
--------------------------------------
+ [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/patterns.jpg)## Clean and Effective Footer Management
 
- [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/footer.jpg)Launch your website with easy to install demo data
---------------------------------------------------
+ [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/footer.jpg)## Launch your website with easy to install demo data
 
- [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/dummy-data.jpg)Internationalized
------------------
+ [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/dummy-data.jpg)## Internationalized
 
- [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/global.jpg)Exclusive Videos, Forum, Email & Comment Support
-------------------------------------------------
+ [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/global.jpg)## Exclusive Videos, Forum, Email & Comment Support
 
- [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/support.jpg)Features of Vintage WordPress Theme:
-------------------------------------
+ [(image removed)](http://markustenghamn.com/wp-content/uploads/2013/09/support.jpg)## Features of Vintage WordPress Theme:
 
  The themes comes with tons of features to customize the site easily.  **Our motto is “Make it simple for users”** . Some of the features are listed below! #### 3 Home Page variations
 

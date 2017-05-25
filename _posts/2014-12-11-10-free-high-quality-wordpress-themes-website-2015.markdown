@@ -12,7 +12,7 @@ I have compiled a list of some really good free Wordpress themes that you can ge
 
 ### [1. Fullby](http://www.marchettidesign.net/fullby/ "Fullby Wordpress Theme")
 
- Fullby is a fully customizable Wordpress theme with tons of features and options. Just watch the video above and take a look at some of the features from their website that are listed below. <div class="row">> <div class="col-md-5 col-md-offset-1" data-scroll-reveal="enter bottom but wait 0.3s" data-scroll-reveal-complete="true" data-scroll-reveal-initialized="true">- New color system. Choose from a combination of 5 Colors. Links, Header, Hover State & more.
+ Fullby is a fully customizable Wordpress theme with tons of features and options. Just watch the video above and take a look at some of the features from their website that are listed below. > - New color system. Choose from a combination of 5 Colors. Links, Header, Hover State & more.
 > - 8 skin (BlueRed, MagentaYellow, GreenPink, YellowCian, RedBlue, BlackGreen, Dark, Light).
 > - Custom Logo, upload your Logo with the customizer of wordpress.
 > - Custom Font, choose from 11 awesome Google Font.
@@ -41,10 +41,10 @@ I have compiled a list of some really good free Wordpress themes that you can ge
 > - Polylang Ready, for multilingual site.
 > - Seo Optimization, Google analytics and custom description support.
 > - Premium Support, full Assistance and Clear Documetation.
->  
-> </div>
 
-<div class="col-md-5 col-md-offset-1" data-scroll-reveal="enter bottom but wait 0.3s" data-scroll-reveal-complete="true" data-scroll-reveal-initialized="true"> [(image removed)](http://bootstrapee.com/spotlight-free-portfolio-wordpress-theme/ "Spotlight Free Wordpress Theme") </div><div class="col-md-5 col-md-offset-1" data-scroll-reveal="enter bottom but wait 0.3s" data-scroll-reveal-complete="true" data-scroll-reveal-initialized="true">### [2. Spotlight](http://bootstrapee.com/spotlight-free-portfolio-wordpress-theme/ "Spotlight Free Wordpress Theme")
+ [(image removed)](http://bootstrapee.com/spotlight-free-portfolio-wordpress-theme/ "Spotlight Free Wordpress Theme") 
+
+### [2. Spotlight](http://bootstrapee.com/spotlight-free-portfolio-wordpress-theme/ "Spotlight Free Wordpress Theme")
 
  Next up is [spotlight](http://bootstrapee.com/spotlight-free-portfolio-wordpress-theme/ "Spotlight Free Wordpress Theme"), a perfect Wordpress theme for a photographer or design studio. With 17 different layouts for the home page you are sure to find something that will work for you. Below are some of the key features listed on their website. > - Different homepage layouts (watch above video)
 > - 18 auto generated thumbnail size
@@ -67,7 +67,7 @@ I have compiled a list of some really good free Wordpress themes that you can ge
 
  Here is another great Wordpress theme. DW Minion has a very clean and simple look with plenty of customization. The theme is responsive so that your website will look good on desktops, laptops and mobile devices! [(image removed)](http://themeclue.com/theme/wordpress/miomio/1000712 "MioMio Free Magazine/News Wordpress Theme")### [4. MioMio](http://themeclue.com/theme/wordpress/miomio/1000712 "MioMio Free Magazine/News Wordpress Theme")
 
- MioMio is a flat style, free Magazine/News Wordpress theme which comes packed with plenty of nice features. It has its own control panel inside of Wordpress to make it super easy to make changes to your theme. Below are some of the features listed on their website <div id="stcpDiv">> **Header:** – Change logo and favicon from options page. – Custom menu – Scrolling page header for better user experience **Content:** – A minimal slideshow for displaying the featured posts – Elegant posts’ listing sections that comes together with pagination **Portfolio:** – Cool portfolio overview with some nice CSS3 animations. **Sidebar:** – Right sidebar where you can place widgets – Custom built-in  image widget **Contact:** – Changing Google maps by placing coordinates on theme options’ section named _Contact_ - Contact form using Contact Form 7 plugin **Footer:**  – Change copyright text – Custom menu on the right **Other Features:** – Add your custom scripts from admin – Google Analytics
+ MioMio is a flat style, free Magazine/News Wordpress theme which comes packed with plenty of nice features. It has its own control panel inside of Wordpress to make it super easy to make changes to your theme. Below are some of the features listed on their website > **Header:** – Change logo and favicon from options page. – Custom menu – Scrolling page header for better user experience **Content:** – A minimal slideshow for displaying the featured posts – Elegant posts’ listing sections that comes together with pagination **Portfolio:** – Cool portfolio overview with some nice CSS3 animations. **Sidebar:** – Right sidebar where you can place widgets – Custom built-in  image widget **Contact:** – Changing Google maps by placing coordinates on theme options’ section named _Contact_ - Contact form using Contact Form 7 plugin **Footer:**  – Change copyright text – Custom menu on the right **Other Features:** – Add your custom scripts from admin – Google Analytics
 
  [(image removed)](http://www.fwpthemes.com/fullscreen-wordpress-theme/ "Fullscreen Wordpress Theme")### [5. Fullscreen Wordpress Theme](http://www.fwpthemes.com/fullscreen-wordpress-theme/ "Fullscreen Wordpress Theme")
 
@@ -83,4 +83,4 @@ I have compiled a list of some really good free Wordpress themes that you can ge
 
  DW Timeline adds a nice touch by going away from the standard blog layout in order to present all the posts in a timeline format. ### Conclusion
 
- That is all the themes for now. I hope you enjoyed the post and I would love to hear your thoughts and comments below! Thanks for reading! </div> </div></div>
+ That is all the themes for now. I hope you enjoyed the post and I would love to hear your thoughts and comments below! Thanks for reading!

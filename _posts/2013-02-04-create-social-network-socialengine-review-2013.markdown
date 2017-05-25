@@ -10,8 +10,7 @@ description: A service I stumbled across a few days ago which is called SocialEn
 
 A service I stumbled across a few days ago which is called SocialEngine let's you create a social networking website in minutes! You can choose to host it in the cloud and pay monthly or to buy the script and host it on your own. Social engine comes loaded with features which let's you easily create and manage your social site. [Try it today with a 14 day free trial!](http://www.anrdoezrs.net/click-7035587-10952383)(image removed)
 
-My Review
----------
+## My Review
 
 After signing up for the cloud version you will be presented with a getting started screen where you need to enter the name for your social site, select your URL and answer some simple questions.
 
