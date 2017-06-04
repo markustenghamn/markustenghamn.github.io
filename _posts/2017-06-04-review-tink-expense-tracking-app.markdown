@@ -3,7 +3,9 @@ layout: post
 title:  "[Review] Using Tink To Track Expenses"
 date:   2017-06-04 12:16:00 +0100
 categories: tink expense tracking banking
-description: 
+description: So I love innovate apps and especially banking related apps that helps me keep
+             track of my expenses. I will be honest and say that I am not the best person when
+             it comes to managing a budget.
 ---
 
 So I love innovate apps and especially banking related apps that helps me keep
