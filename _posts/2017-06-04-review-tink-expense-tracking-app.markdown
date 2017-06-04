@@ -21,7 +21,7 @@ You are able to put transactions into different categories, most are categorized
 you automatically and the app will try to remember the categories you manually had to match.
 Here is an example overview.
 
-![Overview of spending in Tink](/assets/images/posts/2017-06-03-review-tink-expense-tracking-app/tink-overview.jpeg)
+![Overview of spending in Tink](/assets/images/posts/2017-06-04-review-tink-expense-tracking-app/tink-overview.jpeg)
 
 In the exampe above, which is a bit of an unusual month, the majority of spending has gone 
 to housing and other costs. This is due to a move from one country to another and at the 
