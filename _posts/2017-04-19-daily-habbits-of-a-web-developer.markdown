@@ -51,13 +51,19 @@ projects for any language. There is always a few cool projects I find here and i
 People publish courses, guides and more in github projects such as this project which is just a compiled list
 of [awesome tools for Windows](https://github.com/Awesome-Windows/Awesome).
 
-## Do some stalking on Stack Overflow
+## Have a look at Stack Overflow
 
 I like to go to Stack Overflow, pick a tag such as [PHP](http://stackoverflow.com/questions/tagged/php)
 and have a look at the most recent questions and jump over to featured questions. Sometimes I find questions
 that have been unanswered that I can contribute to and sometimes I find questions that could help me
 learn more or just see how other developers are approaching difficult projects. It's like looking over a
 big list of code samples and checking what is good and what is bad.
+
+## Hackernews newsletter
+
+This is not a daily habbit but it is something I tend to look at about once a week. It is the 
+[hackernews newsletter](http://www.hackernewsletter.com/) which typically gives you the latest highlights
+in tech.
 
 This are all the things I can think of at the moment. If you have something that you visit on a daily basis
 I would love to hear about it.
