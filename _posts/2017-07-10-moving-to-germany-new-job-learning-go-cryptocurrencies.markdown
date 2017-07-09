@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Moving to germany, new job, learning Go..."
+redirect_from:
+    - /germany,/new/job,/golang,/php,/cryptocurrencies/2017/06/04/moving-to-germany-new-job-learning-go-cryptocurrencies.html
 date:   2017-06-04 12:16:00 +0100
-categories: Germany, New job, golang, php, cryptocurrencies
+categories: Germany New job golang php cryptocurrencies
 description: It's been an interesting month to say the least. I sold my apartment 
              in Sweden and moved to Germany to start working as a Tech Lead. It was 
              a bit of a culture shock but it's not too different from Sweden.
