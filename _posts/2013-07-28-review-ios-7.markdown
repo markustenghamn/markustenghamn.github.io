@@ -4,7 +4,7 @@ title:  "My Review Of iOS 7"
 redirect_from:
    - /review-ios-7
 date:   2013-07-28 13:57:39 +0100
-description: Some of you may be asking yourselves: should I upgrade? I think the ultimate answer to that is of course yes, there are many new features in iOS 7 and you will want to stay current with updates to...
+description: Some of you may be asking yourselves, should I upgrade? I think the ultimate answer to that is of course yes, there are many new features in iOS 7 and you will want to stay current with updates to...
 ---
 
 **This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**

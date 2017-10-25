@@ -5,7 +5,7 @@ redirect_from:
    - /getting-started-ionic-framework-building-apps-osx-el-capitan
 date:   2016-06-09 19:50:47 +0100
 categories: ionic
-description: First thing you need to do if you haven't already done so is to download and install Node.js. You will find Node.js via their website here: https://nodejs.org/en/....
+description: First thing you need to do if you haven't already done so is to download and install Node.js. You will find Node.js via their website
 ---
 
 **This post has been migrated and imported into different systems over the years, I have not had a chance to format this post manually so it may be hard to read but I have left it here as a reference.**
